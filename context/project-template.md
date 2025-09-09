@@ -17,11 +17,11 @@ date_end: "YYYY-MM-DD"                 # optional if ongoing
 tech: ["Python","Supabase","n8n"]
 tags: ["Prototyping","Hackathon","Open Source"]
 
-cover: "https://cdn.site.com/projects/example/cover.jpg"
+cover: "https://ykvgpcusdnzyzsqjmksr.supabase.co/storage/v1/object/public/unmecaniko-projects-media/<slug>/cover.jpg"
 gallery:
-  - url: "https://cdn.site.com/projects/example/image1.jpg"
+  - url: "https://ykvgpcusdnzyzsqjmksr.supabase.co/storage/v1/object/public/unmecaniko-projects-media/<slug>/image1.jpg"
     caption: "Screenshot of the interface"
-  - url: "https://cdn.site.com/projects/example/image2.jpg"
+  - url: "https://ykvgpcusdnzyzsqjmksr.supabase.co/storage/v1/object/public/unmecaniko-projects-media/<slug>/image2.jpg"
     caption: "System architecture"
 videos:
   - provider: "youtube"
@@ -55,11 +55,11 @@ Brief description of the project, its goals, and context.
 ## My Contribution
 Explain your role and specific contributions.
 
+## Process
+Free format, write about how the project evolved.
+
 ## Architecture / Stack
 Describe the technical architecture, tools, and tradeoffs.
 
 ## Results
 Document measurable results, outcomes, or impact.
-
-## Media Notes
-Notes about copyrights, credits, or usage restrictions if any.

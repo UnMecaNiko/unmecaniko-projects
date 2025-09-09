@@ -79,6 +79,31 @@ The repository serves two audiences:
 3. Upload media to Supabase Storage or YouTube and reference URLs in the front-matter.  
 4. Commit changes and update `README.md` if needed.  
 
+## Writing Style Guide
+
+- **Language**: All content must be written in English.  
+- **Tone**: Clear, simple, and approachable. Use professional but friendly wording.  
+- **Voice**: First person for personal presentation (e.g., "I built this project"),  
+  third person only when describing in a neutral/documentation style.  
+- **Formatting**: 
+  - Use Markdown headings (`##`) for sections.  
+  - Keep sentences short and scannable.  
+  - Use bullet points for lists and highlights.  
+  - Emojis are allowed in small amounts (favorites: 🚀 💡 🦾 ✨).  
+- **Consistency**: Always include front-matter metadata at the top of each file. 
+
+## Future Improvements
+
+The repository will keep evolving with these possible enhancements:
+
+- **Project overview file**: a central index with a chronological list of projects, their status, and relationships.  
+- **Automatic README generation**: script to update the projects table using front-matter data.  
+- **Media optimization**: better pipelines for image resizing and caching through CDN.  
+- **JSON/GraphQL API**: expose project metadata for external consumption beyond the website.  
+- **Internationalization**: optional support for Spanish versions of project entries.
+- **about-unmecaniko**: Improve the description and add more fields of work keeping a simple but detailed text.
+
+
 ## Appendix
 **Glossary**  
 - *Slug*: lowercase identifier used in folder names and URLs.  
