@@ -7,7 +7,7 @@ description: "Template for documenting a project in the portfolio."
 
 slug: "unique-project-slug"
 categories: ["AI","Cloud"]             # choose from: AI, Robotics, Cloud, Electronics & Hardware, Programming, Business, Education
-status: "active"                       # active | archived | prototype
+status: "active"                       # active | archived | prototype | ended
 role: ["Author","Engineer","Founder"]
 team: ["nicolas velasquez lopez","Collaborator 1","Collaborator 2"]
 

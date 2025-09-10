@@ -7,7 +7,7 @@ description: "Desktop CNC with 27×34 cm working area; Arduino Uno + CNC Shield 
 
 slug: "cnc-magiaRoja-v1"
 categories: ["Electronics & Hardware","Robotics"]
-status: "archived"
+status: "ended"
 role: ["Author","Engineer"]
 team: ["Nicolas Velasquez Lopez", "Saul Velasquez Velasquez"]
 
