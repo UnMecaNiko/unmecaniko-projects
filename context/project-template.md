@@ -49,6 +49,7 @@ seo_description: "SEO optimized description that summarizes the project."
 license: "MIT"
 confidentiality: "Public"
 ---
+All of the titles are optional, the objective is to keep the information clear while telling a history
 
 ## Overview
 Brief description of the project, its goals, and context.
@@ -58,6 +59,8 @@ Explain your role and specific contributions.
 
 ## Process
 Free format, write about how the project evolved.
+
+![image inside the text](https://ykvgpcusdnzyzsqjmksr.supabase.co/storage/v1/object/public/unmecaniko-projects-media/cnc-magiaRoja-v1/image1.jpg "description of the image")
 
 ## Architecture / Stack
 Describe the technical architecture, tools, and tradeoffs.
