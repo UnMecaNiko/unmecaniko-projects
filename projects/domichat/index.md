@@ -5,7 +5,6 @@ last_updated: "2025-09-10"
 audience: ["humans","agents"]
 description: "WhatsApp agent that connects delivery riders with rural communities, bringing essential services to thousands of underserved communities."
 
-
 slug: "domichat"
 categories: ["AI","Cloud","Business"]
 status: "active"
@@ -30,7 +29,8 @@ videos: []
 links:
   demo: "https://www.domichat.com.co/"
   repo: "https://github.com/DomiChat/domichat-landing-front"
-  post: "https://www.linkedin.com/posts/unmecaniko_resulta-que-este-s%C3%A1bado-y-domingo-estuve-activity-7365920878741651456-cQYc"
+  post_1: "https://www.linkedin.com/posts/unmecaniko_resulta-que-este-s%C3%A1bado-y-domingo-estuve-activity-7365920878741651456-cQYc"
+  post_2: "https://www.linkedin.com/posts/unmecaniko_qu%C3%A9-estuve-haciendo-estas-%C3%BAltimas-24-horas-activity-7365437714457890816-t4Gb"
 
 impact:
   highlights:
@@ -57,6 +57,7 @@ I served as the cloud and AI architect. I execute the delivery messaging flow, o
 
 ## Process
 ![Domichat landing page](https://ykvgpcusdnzyzsqjmksr.supabase.co/storage/v1/object/public/unmecaniko-projects-media/domichat/image1.jpg "Domichat landing page")
+
 Domichat is a solution implemented on WhatsApp that connects delivery riders and users in towns and villages. You can message the official chat or simply send an audio asking for what you need; once the details are confirmed, a notification goes out to registered riders so they can accept or counteroffer. In minutes your order kicks off and you can wait comfortably at home.
 
 ![Domichat workflow](https://ykvgpcusdnzyzsqjmksr.supabase.co/storage/v1/object/public/unmecaniko-projects-media/domichat/image2.jpg "Domichat workflow")

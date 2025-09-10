@@ -39,7 +39,8 @@ videos:
     id: "G9MDJ864Tzg"
     title: "Video demo – last version"
 
-links: {}
+links:
+  post: "https://www.linkedin.com/posts/unmecaniko_cnc-laser-grbl-activity-7199913997620363264-8UVX"
 
 impact:
   highlights:
