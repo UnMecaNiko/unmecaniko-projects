@@ -32,6 +32,7 @@ links:
   demo: "https://project-demo.com"
   repo: "https://github.com/username/project"
   deck: "https://cdn.site.com/projects/example/deck.pdf"
+  post_1: "https://linkedin.com"
 
 impact:
   highlights:
