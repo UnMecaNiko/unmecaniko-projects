@@ -68,11 +68,21 @@ confidentiality: "Public"
 
 ## Overview
 
-![cubesat zoom in detail](https://ykvgpcusdnzyzsqjmksr.supabase.co/storage/v1/object/public/unmecaniko-projects-media/spacecall/image1.jpg "cubesat zoom in detail")
+<p align="center">
+  <img src="https://ykvgpcusdnzyzsqjmksr.supabase.co/storage/v1/object/public/unmecaniko-projects-media/spacecall/image1.jpg"
+       alt="cubesat zoom in detail"
+       title="cubesat zoom in detail"
+       width="50%">
+</p>
 
 Space Call is an educational initiative driven by Australian company Robinson Aerospace Systems, in collaboration with French NGO Space Elevator and European company The Exploration Company. The project brought together students from seven countries (Australia, Rwanda, Singapore, Ukraine, Colombia, United Arab Emirates, and United States) to design electronic modules (with microcontrollers, LEDs, and sensors) that were integrated into an educational CubeSat called RASCube-1.
 
-![Nicolas explaining electronics](https://ykvgpcusdnzyzsqjmksr.supabase.co/storage/v1/object/public/unmecaniko-projects-media/spacecall/image2.jpg "Nicolas explaining electronics")
+<p align="center">
+  <img src="https://ykvgpcusdnzyzsqjmksr.supabase.co/storage/v1/object/public/unmecaniko-projects-media/spacecall/image2.jpg"
+       alt="Nicolas explaining electronics"
+       title="Nicolas explaining electronics"
+       width="50%">
+</p>
 
 The symbolic objective was for the modules to communicate with each other in orbit using Morse code, functioning as a "telephone game" in different languages.
 
@@ -83,7 +93,12 @@ As a Scientific Instructor, with ASTCOL, I mentored students from The English Sc
 - Mechanical concepts
 - Morse code implementation
 
-![ASTCOL TEAM](https://ykvgpcusdnzyzsqjmksr.supabase.co/storage/v1/object/public/unmecaniko-projects-media/spacecall/image3.jpg "ASTCOL TEAM")
+<p align="center">
+  <img src="https://ykvgpcusdnzyzsqjmksr.supabase.co/storage/v1/object/public/unmecaniko-projects-media/spacecall/image3.jpg"
+       alt="ASTCOL TEAM"
+       title="ASTCOL TEAM"
+       width="50%">
+</p>
 
 The mentorship program ran from November 2023 to February 2024, preparing students to contribute their module to the international project.
 
@@ -103,7 +118,12 @@ The RASCube-1 CubeSat was successfully launched on Tuesday, June 24, 2025. The l
 - Launch Site: California
 - Transport: Integrated within a space capsule developed by The Exploration Company
 
-![detailed cubesat](https://ykvgpcusdnzyzsqjmksr.supabase.co/storage/v1/object/public/unmecaniko-projects-media/spacecall/image4.jpg "Detailed cubesat")
+<p align="center">
+  <img src="https://ykvgpcusdnzyzsqjmksr.supabase.co/storage/v1/object/public/unmecaniko-projects-media/spacecall/image4.jpg"
+       alt="detailed cubesat"
+       title="Detailed cubesat"
+       width="50%">
+</p>
 
 ## Results
 The project successfully achieved its educational and technical objectives:

@@ -80,32 +80,62 @@ The project began as an experiment inspired by tutorials from Profe García, the
 The idea started after watching tutorials from Profe García [YouTube playlist:]( https://www.youtube.com/watch?v=X4BLydtpllo&list=PLnwu2s7SIakR-0Gs5vAO_1sfWDOy9mBE0), where he showed how to build a homemade CNC machine. After following his process, we realized we could do it with higher quality, since we already had experience with mechanics.
 So we decided to build an aluminum structure, with three axes, where the Y-axis had a duplicated motor.
 
-![Aluminum-frame 3-axis CNC with dual Y motors](https://ykvgpcusdnzyzsqjmksr.supabase.co/storage/v1/object/public/unmecaniko-projects-media/cnc-magiaRoja-v1/image1.jpg "Aluminum-frame 3-axis CNC with dual Y motors")
+<p align="center">
+  <img src="https://ykvgpcusdnzyzsqjmksr.supabase.co/storage/v1/object/public/unmecaniko-projects-media/cnc-magiaRoja-v1/image1.jpg"
+       alt="Aluminum-frame 3-axis CNC with dual Y motors"
+       title="Aluminum-frame 3-axis CNC with dual Y motors"
+       width="50%">
+</p>
 
 It was a challenge to get a precise structure. Because it was aluminum and not wood, tolerances were much lower and any deviation could make the axis movement rough. We also had to consider the weight of the engraving tool on the X-axis, which needed strong guides—so we added a double guide.
 
 Since this was an engraving machine, unwanted movements, vibrations, or loose parts were not acceptable, especially with the cutting force of the tool against the material.
 
-![Precision assembly to minimize tolerances and vibration](https://ykvgpcusdnzyzsqjmksr.supabase.co/storage/v1/object/public/unmecaniko-projects-media/cnc-magiaRoja-v1/image2.jpg "Precision assembly to minimize tolerances and vibration")
+<p align="center">
+  <img src="https://ykvgpcusdnzyzsqjmksr.supabase.co/storage/v1/object/public/unmecaniko-projects-media/cnc-magiaRoja-v1/image2.jpg"
+       alt="Precision assembly to minimize tolerances and vibration"
+       title="Precision assembly to minimize tolerances and vibration"
+       width="50%">
+</p>
 
 After wiring the cables, connecting the motors, and calibrating the driver currents, we started running tests: movement, engraving speeds, and first lessons with Universal G-code Sender.
 One of the biggest challenges was calibrating the drivers, configuring motor accelerations and speeds, and adjusting vibrations in the engraving tool.
 
-![Driver current calibration, motion tests, and early engravings](https://ykvgpcusdnzyzsqjmksr.supabase.co/storage/v1/object/public/unmecaniko-projects-media/cnc-magiaRoja-v1/image3.jpg "Driver current calibration, motion tests, and early engravings")
+<p align="center">
+  <img src="https://ykvgpcusdnzyzsqjmksr.supabase.co/storage/v1/object/public/unmecaniko-projects-media/cnc-magiaRoja-v1/image3.jpg"
+       alt="Driver current calibration, motion tests, and early engravings"
+       title="Driver current calibration, motion tests, and early engravings"
+       width="50%">
+</p>
 
 After many hours of testing, corrections, and learning, we reached a version we liked. The last step was making a worktable. For this, we used a board with multiple holes and designed clamps to hold the pieces for engraving.
 
 This was the first stage of the project, which took about 2 months. After that, we began creating different products: signs, advertisements, art, keychains, and more.
 
-![Perforated worktable with custom clamps](https://ykvgpcusdnzyzsqjmksr.supabase.co/storage/v1/object/public/unmecaniko-projects-media/cnc-magiaRoja-v1/image4.jpg "Perforated worktable with custom clamps")
+<p align="center">
+  <img src="https://ykvgpcusdnzyzsqjmksr.supabase.co/storage/v1/object/public/unmecaniko-projects-media/cnc-magiaRoja-v1/image4.jpg"
+       alt="Perforated worktable with custom clamps"
+       title="Perforated worktable with custom clamps"
+       width="50%">
+</p>
 
 After a year of use, a client became interested in the machine and wanted to enable an 80W laser head. At that point, we turned the project into a professional product: we installed the laser, organized and secured the electronic components, and added acrylic guards (cut with the same machine) for safety.
 
-![Professionalized setup with 80W laser and acrylic guards](https://ykvgpcusdnzyzsqjmksr.supabase.co/storage/v1/object/public/unmecaniko-projects-media/cnc-magiaRoja-v1/image5.jpg "Professionalized setup with 80W laser and acrylic guards")
+<p align="center">
+  <img src="https://ykvgpcusdnzyzsqjmksr.supabase.co/storage/v1/object/public/unmecaniko-projects-media/cnc-magiaRoja-v1/image5.jpg"
+       alt="Professionalized setup with 80W laser and acrylic guards"
+       title="Professionalized setup with 80W laser and acrylic guards"
+       width="50%">
+</p>
 
 This is how we transformed a homemade YouTube project built in wood into a professional product. Today, the machine works more than 8 hours daily producing items like keepsakes, art, advertising pieces, personalized designs, and much more.
 
-![Daily production of signage, art, and personalized items](https://ykvgpcusdnzyzsqjmksr.supabase.co/storage/v1/object/public/unmecaniko-projects-media/cnc-magiaRoja-v1/image6.jpg "Daily production of signage, art, and personalized items")
+<p align="center">
+  <img src="https://ykvgpcusdnzyzsqjmksr.supabase.co/storage/v1/object/public/unmecaniko-projects-media/cnc-magiaRoja-v1/image6.jpg"
+       alt="Daily production of signage, art, and personalized items"
+       title="Daily production of signage, art, and personalized items"
+       width="50%">
+</p>
 
 ## Architecture / Stack
 - Motion control: Arduino Uno running GRBL on a CNC Shield V3 with A4988 drivers and NEMA 17 motors.

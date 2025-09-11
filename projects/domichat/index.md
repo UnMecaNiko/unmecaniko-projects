@@ -56,15 +56,30 @@ Domichat is a WhatsApp-based assistant that matches delivery riders with people 
 I served as the cloud and AI architect. I execute the delivery messaging flow, optimizing the flows in n8n, and set up the infrastructure to scale. I also helped making the ptch video for the judges of the hackaton.
 
 ## Process
-![Domichat landing page](https://ykvgpcusdnzyzsqjmksr.supabase.co/storage/v1/object/public/unmecaniko-projects-media/domichat/image1.jpg "Domichat landing page")
+<p align="center">
+  <img src="https://ykvgpcusdnzyzsqjmksr.supabase.co/storage/v1/object/public/unmecaniko-projects-media/domichat/image1.jpg"
+       alt="Domichat landing page"
+       title="Domichat landing page"
+       width="50%">
+</p>
 
 Domichat is a solution implemented on WhatsApp that connects delivery riders and users in towns and villages. You can message the official chat or simply send an audio asking for what you need; once the details are confirmed, a notification goes out to registered riders so they can accept or counteroffer. In minutes your order kicks off and you can wait comfortably at home.
 
-![Domichat workflow](https://ykvgpcusdnzyzsqjmksr.supabase.co/storage/v1/object/public/unmecaniko-projects-media/domichat/image2.jpg "Domichat workflow")
+<p align="center">
+  <img src="https://ykvgpcusdnzyzsqjmksr.supabase.co/storage/v1/object/public/unmecaniko-projects-media/domichat/image2.jpg"
+       alt="Domichat workflow"
+       title="Domichat workflow"
+       width="50%">
+</p>
 
 Domichat solves the accessibility issues of big delivery platforms while implementing a solution that needs no extra app, reducing mobile data usage and closing the tech gap for older people.
 
-![Domichat team](https://ykvgpcusdnzyzsqjmksr.supabase.co/storage/v1/object/public/unmecaniko-projects-media/domichat/image3.jpg "Domichat team")
+<p align="center">
+  <img src="https://ykvgpcusdnzyzsqjmksr.supabase.co/storage/v1/object/public/unmecaniko-projects-media/domichat/image3.jpg"
+       alt="Domichat team"
+       title="Domichat team"
+       width="50%">
+</p>
 The idea sprouted in Manuel Torres’s mind, who had been working on it for weeks, and it was during the AI hackathon organized by Colombia Tech Week and sponsored by Habi that in 24 hours it fully took shape and came to life. For 24 straight hours, Luis, Manuel, Felipe, Mar, and I worked on the MVP—we made it, nearly landing in the top 3 solutions.
 
 We’ll keep working on Domichat so thousands of people can access safe and reliable deliveries.

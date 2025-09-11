@@ -60,7 +60,12 @@ Explain your role and specific contributions.
 ## Process
 Free format, write about how the project evolved.
 
-![image inside the text](https://ykvgpcusdnzyzsqjmksr.supabase.co/storage/v1/object/public/unmecaniko-projects-media/cnc-magiaRoja-v1/image1.jpg "description of the image")
+<p align="center">
+  <img src="https://ykvgpcusdnzyzsqjmksr.supabase.co/storage/v1/object/public/unmecaniko-projects-media/cnc-magiaRoja-v1/image1.jpg"
+       alt="image inside the text"
+       title="description of the image"
+       width="50%">
+</p>
 
 ## Architecture / Stack
 Describe the technical architecture, tools, and tradeoffs.
