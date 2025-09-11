@@ -41,14 +41,14 @@ loaded_files = load_markdown_files()
 EXCLUDED_FILES = ["README.md"]
 
 # Recurso para listar los archivos disponibles
-@mcp.resource("markdown://files")
+@mcp.tool("markdown://files")
 def list_files():
     """Devuelve una lista de los archivos .md disponibles para obtener contexto sobre unmecaniko-projects."""
     available_files = [f for f in loaded_files.keys() if f not in EXCLUDED_FILES]
     return available_files
 
 # Recurso dinámico para obtener el contenido de un archivo
-@mcp.resource("markdown://file/{filename}")
+@mcp.tool("markdown://file/{filename}")
 def get_file(filename: str):
     """Devuelve el contenido de un archivo .md específico para obtener contexto sobre unmecaniko-projects."""
     if filename in EXCLUDED_FILES:
