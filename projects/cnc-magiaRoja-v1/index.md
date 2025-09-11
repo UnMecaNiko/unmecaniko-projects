@@ -22,7 +22,7 @@ gallery:
   - url: "https://ykvgpcusdnzyzsqjmksr.supabase.co/storage/v1/object/public/unmecaniko-projects-media/cnc-magiaRoja-v1/image1.jpg"
     caption: "Aluminum-frame 3-axis CNC with dual Y motors"
   - url: "https://ykvgpcusdnzyzsqjmksr.supabase.co/storage/v1/object/public/unmecaniko-projects-media/cnc-magiaRoja-v1/image2.jpg"
-  -     caption: "Precision assembly to minimize tolerances and vibration"
+    caption: "Precision assembly to minimize tolerances and vibration"
   - url: "https://ykvgpcusdnzyzsqjmksr.supabase.co/storage/v1/object/public/unmecaniko-projects-media/cnc-magiaRoja-v1/image3.jpg"
     caption: "Driver current calibration, motion tests, and early engravings"
   - url: "https://ykvgpcusdnzyzsqjmksr.supabase.co/storage/v1/object/public/unmecaniko-projects-media/cnc-magiaRoja-v1/image4.jpg"
