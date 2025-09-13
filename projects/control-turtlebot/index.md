@@ -17,18 +17,23 @@ date_end: "2023-05-26"
 tech: ["ROS", "Matlab", "Simulink", "Gazebo", "Python"]
 tags: ["control-systems", "robot-navigation", "simulation", "differential-drive", "lyapunov-control", "real-time-control"]
 
-cover: "https://ykvgpcusdnzyzsqjmksr.supabase.co/storage/v1/object/public/unmecaniko-projects-media/control-turtlebot/image1.jpg"
+cover: "https://ykvgpcusdnzyzsqjmksr.supabase.co/storage/v1/object/public/unmecaniko-projects-media/control-turtlebot/cover.jpg"
 gallery:
   - url: "https://ykvgpcusdnzyzsqjmksr.supabase.co/storage/v1/object/public/unmecaniko-projects-media/control-turtlebot/image1.jpg"
     caption: "Robot trajectory control visualization"
   - url: "https://ykvgpcusdnzyzsqjmksr.supabase.co/storage/v1/object/public/unmecaniko-projects-media/control-turtlebot/image2.jpg"
     caption: "Gazebo simulation environment"
+  - url: "https://ykvgpcusdnzyzsqjmksr.supabase.co/storage/v1/object/public/unmecaniko-projects-media/control-turtlebot/image3.jpg"
+    caption: "Cover Image"
+
 videos:
-  - url: "https://www.youtube.com/watch?v=xh2NJ1tb8vQ"
-    caption: "Differential robot trajectory control demonstration"
+  - provider: "youtube"
+    id: "xh2NJ1tb8vQ"
+    title: "Demo video"
 
 links:
   repo: "https://github.com/UnMecaNiko/turtleBot3-RoboticaRos.git"
+  demo: "https://www.linkedin.com/posts/unmecaniko_control-de-movimiento-de-robot-diferencial-activity-7080763122914861056-wT49"
 
 impact:
   highlights:
@@ -59,7 +64,7 @@ I developed a complete trajectory control system for differential mobile robots 
        width="50%">
 </p>
 
-La comunicación con el robot se realiza a través de ROS, utilizando Simulink para implementar el controlador y conectarse con el simulador Gazebo alojado en una máquina virtual. Este entorno permite realizar pruebas en simulación que replican fielmente el comportamiento en condiciones reales, validando así la robustez del sistema para su aplicación directa en robots físicos.
+Communication with the robot is achieved through ROS, using Simulink to implement the controller and connect to the Gazebo simulator hosted in a virtual machine. This environment allows for simulation tests that faithfully replicate behavior under real-world conditions, thus validating the system's robustness for direct application to physical robots.
 
 <p align="center">
   <img src="https://ykvgpcusdnzyzsqjmksr.supabase.co/storage/v1/object/public/unmecaniko-projects-media/control-turtlebot/image2.jpg"
