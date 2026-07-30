@@ -1,0 +1,4 @@
+# Este código se despliega en un servidor Linux: siempre finales de línea LF,
+# aunque se edite desde Windows. La lección viene de magiaRojaV3, donde un
+# Dockerfile con CRLF rompió la construcción de la imagen.
+* text eol=lf

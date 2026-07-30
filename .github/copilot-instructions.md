@@ -1,5 +1,11 @@
 # GitHub Copilot Instructions
 
+> **Read [`AGENTS.md`](../AGENTS.md) first — it is the main context file of this
+> repository.** It defines the two-layer architecture (public English layer
+> consumed by unmecaniko.com vs. internal Spanish layer), the "no secrets" rule,
+> and the git workflow. What follows covers only the **public layer**
+> (`projects/`, `context/`, `README.md`).
+
 ## Repository Overview
 This is Nicolas Velasquez Lopez's (@unmecaniko) living portfolio - a structured documentation system for showcasing projects across AI, robotics, cloud computing, electronics, and business. The repository serves both humans (portfolio navigation) and AI agents (structured knowledge consumption).
 
