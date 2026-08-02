@@ -91,38 +91,29 @@ y [accesos.md](../conocimiento/infraestructura/accesos.md).
 
 ## 🟠 Prioridad media
 
-### 4. Búsqueda completa de la identidad profesional en internet
+### 4. Completar la validación de identidad profesional
 
-**Qué falta.** Un barrido exhaustivo de todo lo que existe públicamente sobre
-Nicolas Velasquez Lopez / `unmecaniko`, para volcarlo en
-[conocimiento/identidad/](../conocimiento/identidad/).
+**Qué falta.** La investigación pública inicial ya consolidó LinkedIn, proyectos,
+repositorios destacados, publicaciones, reconocimientos y empresas objetivo en
+[conocimiento/identidad/](../conocimiento/identidad/). Quedan fuentes que no
+pudieron cerrarse:
 
-**Por qué importa.** Es la condición para que este repositorio cumpla su
-propósito: generar hojas de vida adaptadas a una vacante, preparar entrevistas,
-armar cotizaciones y arrancar proyectos con contexto real. Hoy la capa de
-identidad es un resumen de una página.
+- inventariar video por video el canal de YouTube;
+- revisar y clasificar los 47 repositorios públicos de GitHub;
+- verificar folios y vigencia de certificaciones Huawei;
+- reconstruir las "50+" formaciones con fecha, tema y audiencia;
+- obtener soportes del Rally Latinoamericano de Innovación y aclarar su nivel;
+- confirmar o retirar definitivamente el supuesto primer lugar en una
+  "Huawei Solutions Architect Competition", para el cual no apareció evidencia;
+- validar con Nicolas los datos pendientes de trayectoria, reubicación y
+  autorización laboral.
 
-**Dónde buscar** (lista para ejecutar, no exhaustiva):
+**Por qué importa.** La base actual ya permite perfilar cargos y empresas, pero
+una hoja de vida formal requiere soportes y resultados medibles.
 
-- LinkedIn: cargos, fechas, descripciones, recomendaciones, publicaciones.
-- GitHub `UnMecaNiko`: los ~30 repositorios, sus fechas y su contenido real.
-- YouTube `@unmecaniko`: videos, fechas, temas, métricas.
-- Certificaciones Huawei: verificar folios y vigencia.
-- Menciones en prensa, universidades, competencias (Huawei Solutions Architect
-  Competition, robótica), Space Call Project, Lápiz Labs.
-- Hackathons y eventos (DomiChat AI Hackathon 2025, etc.).
-- Cualquier charla, taller o formación de las "50+" dictadas.
-
-**Cómo se hace.** Buscar, **citar la fuente con URL y fecha de consulta**, y
-escribir en los documentos que mapea
-[perfil-profesional.md](../conocimiento/identidad/perfil-profesional.md):
-`trayectoria.md`, `capacidades.md`, `formacion.md`, `logros.md`,
-`publicaciones-y-charlas.md`. **No inventar fechas, cargos ni cifras** — de aquí
-saldrán hojas de vida y cotizaciones. Lo que no se encuentre, queda `⏳ PENDIENTE`
-para preguntarle a Nicolas.
-
-**Ojo con la privacidad:** parte de esto (tarifas, detalle de clientes) no puede
-vivir en un repositorio público. Depende del pendiente #1.
+**Cómo se hace.** Resolver los bloques `⏳ PENDIENTE` de los documentos de
+identidad. No copiar información confidencial de empleadores ni publicar
+tarifas mientras el repositorio siga siendo público.
 
 ### 5. Ficha pública de la CNC v3
 
@@ -154,16 +145,20 @@ tabla está desactualizada.
 
 ### 7. Inventariar los repositorios de GitHub
 
-**Qué falta.** Decidir, de los ~30 repositorios de la cuenta, cuáles son
-portafolio, cuáles histórico y cuáles se archivan.
+**Qué falta.** Decidir, de los 47 repositorios públicos observados el 2026-08-01,
+cuáles son trabajo original, contribuciones, forks, cursos, portafolio,
+histórico y cuáles se archivan.
 
 **Por qué importa.** Un perfil de GitHub con 30 repositorios de cursos diluye los
 5 que valen. Y hay conocimiento útil enterrado ahí (`AI-Knowledge-Base`,
 `aid-sdlc`, `notasNegociosYEmprendimiento`).
 
-**Cómo se hace.** Listar con la API, clasificar en la tabla de repositorios
-relacionados de [AGENTS.md](../AGENTS.md#repositorios-relacionados), archivar los
-que sean ruido.
+**Cómo se hace.** Listar con la API, revisar autoría y contribuciones, clasificar
+en la tabla de repositorios relacionados de
+[AGENTS.md](../AGENTS.md#repositorios-relacionados) y archivar los que sean
+ruido. `dify-unmecaniko` es un fork de `langgenius/dify` y `aid-sdlc` también
+figura como fork: pueden demostrar experimentación o contribución, pero no deben
+atribuirse como productos o metodologías propias sin evidencia adicional.
 
 ---
 

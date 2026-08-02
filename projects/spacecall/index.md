@@ -1,9 +1,9 @@
 ---
 title: "Space Call Project - International Education"
 version: "1.0.0"
-last_updated: "2025-09-10"
+last_updated: "2026-08-01"
 audience: ["humans","agents"]
-description: "Scientific Instructor for international program supporting students from 6 countries in building electronic boards launched into space, connecting cultures through technology"
+description: "Scientific Instructor for international program supporting students from 7 countries in building electronic boards launched into space, connecting cultures through technology"
 
 slug: "spacecall"
 categories: ["Electronics & Hardware", "Education"]

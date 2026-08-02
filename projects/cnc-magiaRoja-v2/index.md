@@ -1,18 +1,18 @@
 ---
 title: "CNC Magia Roja v2 – Upgraded Control and Mechanics"
 version: "2.0.0"
-last_updated: "2025-09-22"
+last_updated: "2026-08-01"
 audience: ["humans","agents"]
 description: "Second version of the CNC Magia Roja, featuring an improved control system, active cooling for the drivers, an 80W (10W optical) laser with air assist, and a robust mechanical structure for high precision."
 
 slug: "cnc-magiaRoja-v2"
 categories: ["Electronics & Hardware","Robotics"]
-status: "active"
+status: "ended"
 role: ["Author","Engineer"]
 team: ["Nicolas Velasquez Lopez", "Saul Velasquez Velasquez"]
 
 date_start: "2024-06-01"
-date_end: ""
+date_end: "" # Sold in 2026; exact date pending verification.
 
 tech: ["GRBL Controller","TMC2209 Drivers","NEMA 17","Helical Screw","LightBurn","80W Laser","Air Assist"]
 tags: ["CNC","Engraving","Laser","Fabrication","Prototyping","Workshop"]

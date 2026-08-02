@@ -29,14 +29,14 @@ Mechatronics engineer from Colombia working at the intersection of **cloud compu
 - HCIP Cloud Service Solutions Architect (2025).  
 - HCIA Artificial Intelligence (2024).  
 - HCIA Cloud Service (2024).  
-- EF SET C2 Proficiency in English.  
+- Advanced English (CEFR C1 according to the public LinkedIn credential).
 
 ## Selected Achievements
 - Led cloud AI initiatives and delivered 50+ technical trainings.  
 - Migrated one of Colombia’s largest digital lottery companies to Huawei Cloud, doubling their monthly recurring revenue.  
 - Co-founded **Lápiz Labs**, bringing robotics and programming to children and teenagers.  
 - Scientific instructor at the **Space Call Project**, supporting international teams in building boards launched to space.  
-- 1st place in **Huawei Solutions Architect Competition** and multiple awards in robotics and innovation challenges.  
+- Senior champion at the **2021 UMNG Programming Olympics**, robotics category champion at the **2022 UMNG Engineering Week**, and second place in the innovation category at the **2023 Latin American Innovation Rally**.
 
 ## Philosophy & Values
 - **Learning**: every project is a chance to grow.  

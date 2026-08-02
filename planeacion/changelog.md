@@ -6,6 +6,90 @@ documenta. Formato: fecha + qué + por qué. Lo más reciente va arriba.
 Los pendientes vivos están en [pendientes.md](pendientes.md); cuando uno se
 resuelve, se borra de allí y aparece aquí.
 
+## 2026-08
+
+### 2026-08-01 — Primera investigación de identidad y objetivo robótica + IA
+
+- **[identidad]** Investigado el LinkedIn público de Nicolas, su portafolio,
+  publicaciones, proyectos y repositorios destacados. Creados
+  [trayectoria.md](../conocimiento/identidad/trayectoria.md),
+  [capacidades.md](../conocimiento/identidad/capacidades.md),
+  [formacion.md](../conocimiento/identidad/formacion.md),
+  [logros.md](../conocimiento/identidad/logros.md) y
+  [publicaciones-y-charlas.md](../conocimiento/identidad/publicaciones-y-charlas.md),
+  con URLs, fecha de consulta y pendientes explícitos para todo dato que no pudo
+  validarse.
+- **[carrera]** Definido el posicionamiento de entrada a robótica con IA:
+  **Robotics Solutions, Deployment, Integration o Systems Engineer**. La
+  experiencia en preventa, nube, POCs y mecatrónica tiene mejor ajuste inmediato
+  en esos roles que en puestos senior de percepción, autonomía o aprendizaje
+  por refuerzo.
+- **[carrera]** Creado
+  [empresas-objetivo-robotica-ia.md](../conocimiento/identidad/empresas-objetivo-robotica-ia.md)
+  con empresas de Colombia, LATAM remota y reubicación internacional, vacantes
+  de referencia, ajuste real, bloqueadores y un plan de 30/90 días.
+- **[calidad]** Detectadas dos inconsistencias del perfil público: LinkedIn
+  respalda inglés C1, no el C2 que decía el repositorio; y no apareció evidencia
+  del supuesto primer lugar en “Huawei Solutions Architect Competition”. Se
+  corrigió [context/about-unmecaniko.md](../context/about-unmecaniko.md) para no
+  publicar esas afirmaciones como hechos.
+- **[planeación]** El pendiente de investigación de identidad se redujo a
+  fuentes y soportes concretos: YouTube, inventario completo de GitHub,
+  credenciales Huawei, formaciones, reconocimientos y datos que debe confirmar
+  Nicolas.
+- **[identidad]** Incorporadas dos corroboraciones de terceros:
+  [Radio Bolivariana/El Hilo Noticias](https://www.elhilonoticias.com/2025/07/17/nicolas-velasquez-inteligencia-artificial-y-mecatronica/)
+  para la etapa en Huawei, mecatrónica y docencia, y la
+  [Asociación Astronáutica Colombiana](https://www.linkedin.com/posts/asociaci%C3%B3n-astron%C3%A1utica-colombiana_spacecallproject-activity-7341257999606259712-zDrK)
+  para el rol de instructor en Space Call.
+- **[calidad]** Aclarado que `dify-unmecaniko` y `aid-sdlc` figuran como forks y
+  no deben presentarse como autoría original. El inventario pendiente de GitHub
+  se actualizó a 47 repositorios y ahora exige separar originales, contribuciones,
+  forks y cursos.
+- **[proyectos]** Corregidos dos datos públicos inconsistentes: Space Call
+  involucró siete países, no seis, y CNC Magia Roja v2 pasó a estado terminado
+  porque fue vendida en 2026; la fecha exacta sigue pendiente.
+
+### 2026-08-01 — Segunda pasada: material local, Europa y el rol FDE
+
+Complemento de la investigación anterior, hecho sobre el **material que Nicolas
+ya tiene en su equipo** —export de LinkedIn de junio de 2026 y tres hojas de vida
+de abril, mayo y junio de 2026— porque LinkedIn devuelve HTTP 999 a cualquier
+herramienta automática y el perfil no se puede leer en vivo.
+
+- **[identidad]** Precisadas las fechas de las certificaciones Huawei (HCIP marzo
+  de 2025, HCIA AI mayo de 2024, HCIA Cloud Service abril de 2024) y calculada su
+  **vigencia**: la HCIA AI, única credencial formal de IA del perfil, vencería
+  hacia mayo de 2027. Añadidos a [formacion.md](../conocimiento/identidad/formacion.md)
+  los cursos de **MCP** y **Professional Scrum**, que sí sirven al
+  posicionamiento y no estaban registrados.
+- **[carrera]** Resueltos dos pendientes de la lista de empresas objetivo: la
+  hoja de vida de junio declara por escrito **«Open to relocation (Barcelona) or
+  fully remote»**, y los idiomas de trabajo quedan fijados. Barcelona pasa a ser
+  mercado primario, no plan B.
+- **[carrera]** Documentado que **la búsqueda ya empezó**: existen hojas de vida
+  dirigidas a **THEKER Robotics** (Barcelona) y **NEURA Robotics** (Alemania), y
+  la presentación [theker.velasquezlopez.com](https://theker.velasquezlopez.com)
+  parece ser una pieza de la primera postulación. Falta confirmar el estado de
+  ambos procesos.
+- **[carrera]** Añadidas a
+  [empresas-objetivo-robotica-ia.md](../conocimiento/identidad/empresas-objetivo-robotica-ia.md)
+  dos empresas ausentes y de ajuste alto: **NEURA Robotics** —Serie C de hasta
+  1.400 M USD en junio de 2026, con vacante de Senior Solutions Engineer— y
+  **PAL Robotics**, en el 22@ de Barcelona. Añadido el contexto de financiación
+  del sector (Skild AI, Figure, Apptronik, Physical Intelligence, 1X) y el papel
+  transversal de NVIDIA Isaac.
+- **[carrera]** Identificado el título que conviene cazar: **Forward Deployed
+  Engineer**. Es la descripción literal del trabajo actual en Truora aplicada a
+  IA, y muchas vacantes de robótica lo publican con ese nombre sin usar la
+  palabra «robotics». AWS destinó 1.000 M USD a crear esa organización en junio
+  de 2026 y Microsoft lanzó Frontier con el mismo modelo.
+- **[calidad]** Detectado que el **perfil de GitHub está desactualizado**: la
+  biografía y el campo *company* siguen diciendo «Huawei Cloud», un empleo que
+  terminó en julio de 2025, y el enlace apunta a LinkedIn en vez del portafolio.
+  Es lo primero que ve un reclutador. Arreglos concretos anotados en el mismo
+  documento.
+
 ## 2026-07
 
 ### 2026-07-30 — El repositorio pasa a ser el principal

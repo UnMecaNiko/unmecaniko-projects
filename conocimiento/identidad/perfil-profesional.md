@@ -5,7 +5,9 @@ trayectoria de Nicolas Velasquez Lopez. La meta es que baste leer esta carpeta
 para generar una hoja de vida adaptada a una vacante, preparar una entrevista o
 armar una cotización.
 
-**Hoy no alcanza para eso.** Este archivo mapea lo que existe y lo que falta.
+La primera investigación pública se realizó el 2026-08-01. Ya existe una base
+útil, pero los datos marcados como pendientes deben validarse con Nicolas antes
+de generar una hoja de vida definitiva.
 
 ## Lo que ya está escrito
 
@@ -29,13 +31,16 @@ microcontroladores) · Programación (Python, C++, JavaScript) · Negocio y
 educación (formación, mentoría, emprendimiento).
 
 **Certificaciones:** HCIP Cloud Service Solutions Architect (2025) · HCIA
-Artificial Intelligence (2024) · HCIA Cloud Service (2024) · EF SET C2 en inglés.
+Artificial Intelligence (2024) · HCIA Cloud Service (2024) · inglés avanzado
+CEFR C1 según el registro público de LinkedIn.
 
-**Logros destacados:** más de 50 formaciones técnicas dictadas · migración de una
-de las mayores empresas de lotería digital de Colombia a Huawei Cloud, duplicando
-su ingreso recurrente mensual · cofundador de **Lápiz Labs** (robótica y
-programación para niños y adolescentes) · instructor científico en el **Space Call
-Project** · primer lugar en la Huawei Solutions Architect Competition.
+**Logros destacados:** campeón senior de las Olimpiadas de Programación UMNG
+2021 · campeón de la categoría Robótica en la Semana de la Ingeniería UMNG 2022
+· segundo lugar en innovación en el Rally Latinoamericano de Innovación 2023
+· cofundador de **Lápiz Labs** · instructor científico en **Space Call** · jurado
+de World Robot Olympiad Colombia. La migración cloud con impacto superior a 2x
+en MRR y las más de 50 formaciones son declaraciones públicas pendientes de
+inventario o soporte independiente.
 
 **Trabajo actual:** Truora, en preventa e ingeniería de soluciones, construyendo
 operaciones asistidas por agentes de IA. La presentación pública de esa
@@ -50,30 +55,23 @@ su código vive en [codigo/theker-sistema-operativo-ia/](../../codigo/theker-sis
 **Emprendimiento propio:** la CNC Magia Roja bajo la marca VELO inc. Ver
 [../negocios/magia-roja-cnc.md](../negocios/magia-roja-cnc.md).
 
-## Lo que falta — el gran pendiente
-
-> ⏳ PENDIENTE (grande): **búsqueda completa de la identidad profesional en
-> internet** para nutrir esta carpeta. Está desglosada en
-> [../../planeacion/pendientes.md](../../planeacion/pendientes.md).
-
-Y de forma más concreta, esta carpeta debería llegar a tener:
+## Documentos de identidad
 
 | Documento | Para qué sirve |
 |---|---|
-| `trayectoria.md` | Cargos, empresas, fechas, responsabilidades y logros medibles. Es el insumo directo de cualquier hoja de vida. |
-| `capacidades.md` | Habilidades con nivel real y evidencia (qué proyecto la demuestra), no una lista de palabras. |
-| `formacion.md` | Títulos, certificaciones con fecha y vigencia, cursos relevantes. |
-| `logros.md` | Logros con cifras y contexto verificable. |
-| `publicaciones-y-charlas.md` | Contenido, charlas, talleres, apariciones. |
+| [trayectoria.md](trayectoria.md) | Cargos, empresas, fechas, responsabilidades y logros medibles. |
+| [capacidades.md](capacidades.md) | Habilidades con nivel real, evidencia y brechas para robótica + IA. |
+| [formacion.md](formacion.md) | Títulos, certificaciones, inconsistencias y formación prioritaria. |
+| [logros.md](logros.md) | Logros separados por fuerza de evidencia. |
+| [publicaciones-y-charlas.md](publicaciones-y-charlas.md) | Contenido, charlas y estrategia editorial. |
+| [empresas-objetivo-robotica-ia.md](empresas-objetivo-robotica-ia.md) | Roles, empresas y plan de posicionamiento para Physical AI. |
 | `tarifas-y-servicios.md` | Qué vende como servicio y en qué rango. **Ojo:** si lleva cifras, no puede estar en un repositorio público. |
 
-> ⏳ PENDIENTE: ninguno de esos seis documentos existe todavía. Crearlos requiere
-> una sesión de recopilación con Nicolas más la búsqueda en internet: no se pueden
-> inventar fechas, cargos ni cifras.
+> ⏳ PENDIENTE: crear `tarifas-y-servicios.md` solo después de volver privada la
+> capa interna; no deben publicarse cifras comerciales en el estado actual.
 
-> ⏳ PENDIENTE: definir si la capa de identidad va en español (es capa interna) y
-> se traduce al generar salidas, o directamente en inglés porque la mayoría de
-> hojas de vida y entrevistas objetivo son en inglés.
+> ⏳ PENDIENTE: completar los vacíos indicados en cada documento mediante una
+> sesión con Nicolas y soportes verificables.
 
 ## Ver también
 
