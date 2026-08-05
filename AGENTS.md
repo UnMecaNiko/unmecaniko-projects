@@ -95,7 +95,8 @@ Este repositorio tiene **dos capas con reglas distintas**. Confundirlas rompe la
 - **Los commits se hacen de forma automática, sin pedir autorización** — tanto sobre `main` como dentro de una rama.
 - **`git pull` al iniciar cada sesión** y antes de empezar trabajo nuevo, para evitar divergencia.
 - **`git push` a `origin` automático tras cada commit**, igual que el commit.
-- **Trabajos grandes** → rama `tipo/proposito` (ej. `infra/vps-caddy`, `identidad/hoja-de-vida`, `web/arquitectura`). Si la sesión arranca en una rama autogenerada (`claude/...`), renombrarla con `git branch -m` apenas quede claro el propósito.
+- **`main` es la rama de trabajo por defecto**, también para trabajos grandes. Crear una rama `tipo/proposito` solo cuando el contexto deba quedar realmente aislado: experimento descartable, cambio riesgoso, trabajo paralelo prolongado o colaboración/revisión externa. No crear ramas rutinarias por tamaño.
+- Si una sesión arranca en una rama autogenerada (`claude/...`) sin una razón concreta para aislarla, integrar el trabajo en `main` y continuar allí.
 - **Mergear a `main` requiere autorización explícita.** Una vez autorizado: fast-forward directo, **sin pull request** (trabaja una sola persona), y borrar la rama del remoto.
 - Identidad de commits: `Nicolas Velasquez Lopez <unmecaniko@gmail.com>`.
 

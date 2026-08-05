@@ -65,6 +65,8 @@ su código vive en [codigo/theker-sistema-operativo-ia/](../../codigo/theker-sis
 | [logros.md](logros.md) | Logros separados por fuerza de evidencia. |
 | [publicaciones-y-charlas.md](publicaciones-y-charlas.md) | Contenido, charlas y estrategia editorial. |
 | [empresas-objetivo-robotica-ia.md](empresas-objetivo-robotica-ia.md) | Roles, empresas y plan de posicionamiento para Physical AI. |
+| [empresas-robotica-ia.yaml](empresas-robotica-ia.yaml) | Inventario procesable de 32 empresas con ajuste, migración y portal laboral. |
+| [plan-transicion-robotica-ia.md](plan-transicion-robotica-ia.md) | Plan accionable de 18 meses: habilidades, portafolio, CV, web, eventos y aplicaciones. |
 | `tarifas-y-servicios.md` | Qué vende como servicio y en qué rango. **Ojo:** si lleva cifras, no puede estar en un repositorio público. |
 
 > ⏳ PENDIENTE: crear `tarifas-y-servicios.md` solo después de volver privada la

@@ -1,0 +1,435 @@
+metadata:
+  owner: "Nicolas Velasquez Lopez"
+  objective: "Trabajar en un rol que combine robótica e inteligencia artificial"
+  source: "Lista proporcionada por Nicolas y normalizada mediante investigación pública"
+  checked_at: "2026-08-01"
+  horizon_months: 18
+  assumptions:
+    english: "C1 avanzado"
+    current_location: "Bogotá, Colombia"
+    us_work_authorization: false
+    relocation: "disponible, por confirmar países"
+  scoring:
+    fit_now: "Ajuste profesional actual de 0 a 5; no es probabilidad de contratación"
+    fit_18m: "Ajuste posible tras ejecutar el plan de habilidades y portafolio"
+    priority_a: "Aplicar o construir relación durante los próximos 0–6 meses"
+    priority_b: "Preparar y monitorear activamente durante 6–12 meses"
+    priority_c: "Objetivo estratégico a 12–18 meses o condicionado a migración"
+    priority_d: "Observación; bloqueo fuerte o ruta poco eficiente"
+
+companies:
+  - id: "mentee"
+    input_name: "Mentee"
+    canonical_name: "Mentee Robotics / Mentee by Mobileye"
+    category: "humanoid"
+    headquarters: "Israel"
+    priority: "C"
+    fit_now: 2
+    fit_18m: 3
+    best_route: "Cloud/AI infrastructure, robotics integration"
+    migration: "Permiso y reubicación no publicados"
+    careers: "https://careers.mobileye.com/"
+    note: "Monitorear búsquedas MENTEE; producto adquirido por Mobileye en 2026."
+
+  - id: "persona-ai"
+    input_name: "Persona AI"
+    canonical_name: "Persona AI"
+    category: "humanoid"
+    headquarters: "Houston, Estados Unidos"
+    priority: "D"
+    fit_now: 2
+    fit_18m: 3
+    best_route: "Simulation infrastructure, deployment planning"
+    migration: "Sponsorship no publicado"
+    careers: "https://jobs.ashbyhq.com/persona.ai/"
+    note: "Roles actuales priorizan simulación, manipulación y experiencia robótica profunda."
+
+  - id: "neura"
+    input_name: "NEURA Robotics"
+    canonical_name: "NEURA Robotics"
+    category: "cognitive-and-humanoid"
+    headquarters: "Metzingen, Alemania"
+    priority: "A"
+    fit_now: 4
+    fit_18m: 5
+    best_route: "Application Engineer Automation, solutions, service"
+    migration: "Sponsorship no publicado; Blue Card potencial con oferta elegible"
+    careers: "https://jobs.neura-robotics.com/"
+    note: "Añadir PLC, visión industrial y alemán A2–B1."
+
+  - id: "franka"
+    input_name: "Franka Robotics"
+    canonical_name: "Franka Robotics"
+    category: "robot-arms"
+    headquarters: "Múnich, Alemania"
+    priority: "B"
+    fit_now: 2
+    fit_18m: 4
+    best_route: "Robotics integration, applications, developer relations"
+    migration: "No publicada; pertenece a Agile Robots"
+    careers: "https://franka-robotics.jobs.personio.de/?language=en"
+    note: "No había vacante compatible vigente; preparar demo MoveIt 2/Franka."
+
+  - id: "agile-robots"
+    input_name: "Agile Robots"
+    canonical_name: "Agile Robots"
+    category: "physical-ai"
+    headquarters: "Múnich, Alemania"
+    priority: "A"
+    fit_now: 4
+    fit_18m: 5
+    best_route: "Applications, deployment, field application"
+    migration: "La página de carreras declara apoyo con reubicación y visa de trabajo"
+    careers: "https://agile-robots-se.jobs.personio.de/"
+    note: "Una de las mejores combinaciones entre rol, sector y migración."
+
+  - id: "agibot"
+    input_name: "AgiBot"
+    canonical_name: "AgiBot / Zhiyuan Robotics"
+    category: "humanoid"
+    headquarters: "Shanghái, China"
+    priority: "C"
+    fit_now: 2.5
+    fit_18m: 4
+    best_route: "Overseas Solutions, applications, partner enablement"
+    migration: "Permiso patrocinado por empleador posible; la empresa no lo promete"
+    careers: "https://www.agibot.com/recruitment/209.html"
+    note: "El programa internacional de partners es mejor entrada que investigación."
+
+  - id: "robotera"
+    input_name: "RobotEra"
+    canonical_name: "RobotEra"
+    category: "humanoid"
+    headquarters: "Beijing, China"
+    priority: "D"
+    fit_now: 2
+    fit_18m: 3.5
+    best_route: "International Application Engineer, technical business development"
+    migration: "No publicada"
+    careers: "https://www.robotera.com/en/about1.html"
+    note: "Contratación pública opaca; requiere contacto directo y probablemente mandarín."
+
+  - id: "universal-robots"
+    input_name: "Universal Robots"
+    canonical_name: "Universal Robots / Teradyne Robotics"
+    category: "industrial-cobots"
+    headquarters: "Odense, Dinamarca"
+    priority: "A"
+    fit_now: 4.5
+    fit_18m: 5
+    best_route: "Physical AI Field Applications, product support, sales engineering"
+    migration: "Vacantes revisadas no ofrecían sponsorship; presencia LATAM en México y Brasil"
+    careers: "https://jobs.teradyne.com/Universal-Robots/"
+    note: "La coincidencia funcional más exacta; completar UR Academy y PoC UR/MiR."
+
+  - id: "humanoid"
+    input_name: "Humanoid"
+    canonical_name: "Humanoid / SKL Robotics Ltd"
+    category: "humanoid"
+    headquarters: "Londres, Reino Unido"
+    priority: "C"
+    fit_now: 1.5
+    fit_18m: 4
+    best_route: "Customer deployment, robotics test, integration, technical product"
+    migration: "No figuraba como sponsor Skilled Worker al 2026-07-24"
+    careers: "https://thehumanoid.ai/careers/"
+    note: "Monitorear licencia de sponsor y vacantes en Vancouver."
+
+  - id: "diligent"
+    input_name: "Diligent"
+    canonical_name: "Diligent Robotics"
+    category: "service-healthcare"
+    headquarters: "Austin, Estados Unidos"
+    priority: "C"
+    fit_now: 3
+    fit_18m: 4.5
+    best_route: "Fleet Engineer, deployment, clinical robot operations"
+    migration: "Sponsorship no confirmado"
+    careers: "https://job-boards.greenhouse.io/diligentrobotics"
+    note: "Subsidiaria de Serve Robotics desde 2026; fortalecer diagnóstico ROS 2/CAN."
+
+  - id: "xpeng"
+    input_name: "XPENG"
+    canonical_name: "XPENG Robotics"
+    category: "humanoid-and-autonomy"
+    headquarters: "Guangzhou, China"
+    priority: "D"
+    fit_now: 1.5
+    fit_18m: 3.5
+    best_route: "Technical program, validation, deployment"
+    migration: "No publicada; vacantes cercanas en Santa Clara requieren revisar autorización"
+    careers: "https://www.xpeng.com/join-us"
+    note: "No priorizar roles Staff de control, robot learning o manipulación."
+
+  - id: "boston-dynamics"
+    input_name: "Boston Dynamics"
+    canonical_name: "Boston Dynamics"
+    category: "mobile-and-humanoid"
+    headquarters: "Waltham, Estados Unidos"
+    priority: "D"
+    fit_now: 1
+    fit_18m: 2
+    best_route: "Field applications, integrator, customer success"
+    migration: "Vacante Field Applications revisada niega sponsorship"
+    careers: "https://bostondynamics.com/careers/"
+    note: "Buscar primero integradores o distribuidores internacionales de Spot."
+
+  - id: "disney-research"
+    input_name: "Disney Research"
+    canonical_name: "Disney Research / Walt Disney Imagineering"
+    category: "research-and-animatronics"
+    headquarters: "Estados Unidos; presencia histórica en Zúrich"
+    priority: "D"
+    fit_now: 1
+    fit_18m: 2
+    best_route: "Show controls, robotics software"
+    migration: "Sponsorship no publicado; algunas prácticas exigen autorización irrestricta"
+    careers: "https://la.disneyresearch.com/careers/"
+    note: "Research Scientist requiere publicaciones/posgrado; Show Controls es ruta más cercana."
+
+  - id: "figure"
+    input_name: "Figure"
+    canonical_name: "Figure AI"
+    category: "humanoid"
+    headquarters: "San Jose, Estados Unidos"
+    priority: "D"
+    fit_now: 2
+    fit_18m: 3
+    best_route: "Deployment Engineer"
+    migration: "Sponsorship no publicado"
+    careers: "https://www.figure.ai/careers"
+    note: "Requiere experiencia piloto-producción y presencia en sitios estadounidenses."
+
+  - id: "fauna"
+    input_name: "Fauna Robotics"
+    canonical_name: "Fauna Robotics, an Amazon company"
+    category: "humanoid"
+    headquarters: "Nueva York, Estados Unidos"
+    priority: "D"
+    fit_now: 2
+    fit_18m: 3
+    best_route: "Technical program, platform, developer experience"
+    migration: "Sponsorship no publicado"
+    careers: "https://faunarobotics.com/careers"
+    note: "Las vacantes observadas son mayoritariamente senior y presenciales."
+
+  - id: "foxconn"
+    input_name: "Foxconn Fii"
+    canonical_name: "Hon Hai / Foxconn; FII como alternativa de industrial cloud"
+    category: "industrial-humanoid"
+    headquarters: "New Taipei City, Taiwán"
+    priority: "B"
+    fit_now: 3.5
+    fit_18m: 4.5
+    best_route: "Automation, robotics integration, technical project management"
+    migration: "Sponsorship no publicado"
+    careers: "https://recruit.foxconn.com/isite-web/mbJobRelMgr.initWithAll.do"
+    note: "Hon Hai es el objetivo humanoide; FII encaja mejor para cloud industrial."
+
+  - id: "agility"
+    input_name: "Agility"
+    canonical_name: "Agility Robotics"
+    category: "humanoid"
+    headquarters: "Oregon, Estados Unidos"
+    priority: "D"
+    fit_now: 1
+    fit_18m: 2
+    best_route: "Solutions Engineer, Arc integration, deployment"
+    migration: "Vacantes actuales exigen autorización estadounidense vigente"
+    careers: "https://www.agilityrobotics.com/careers"
+    note: "El rol encaja; la restricción migratoria lo vuelve inviable hoy."
+
+  - id: "1x"
+    input_name: "1X"
+    canonical_name: "1X Technologies"
+    category: "humanoid"
+    headquarters: "Palo Alto, Estados Unidos; raíces en Moss, Noruega"
+    priority: "C"
+    fit_now: 2
+    fit_18m: 3
+    best_route: "Cloud infrastructure, robot operations, simulation"
+    migration: "El formulario pregunta sponsorship, pero no promete ofrecerlo"
+    careers: "https://www.1x.tech/careers"
+    note: "Monitorear específicamente futuras vacantes en Noruega."
+
+  - id: "lg"
+    input_name: "LG Electronics"
+    canonical_name: "LG Electronics; LG CNS como ruta alternativa"
+    category: "service-and-logistics"
+    headquarters: "Seúl, Corea del Sur"
+    priority: "C"
+    fit_now: 2.5
+    fit_18m: 4
+    best_route: "LG CNS robotics/logistics solutions, AI/cloud presales"
+    migration: "Sponsorship y reubicación no publicados"
+    careers: "https://careers.lg.com/"
+    note: "LG CNS mostraba roles más compatibles que LG Electronics; coreano es barrera."
+
+  - id: "hexagon"
+    input_name: "Hexagon Robotics"
+    canonical_name: "Hexagon Robotics"
+    category: "industrial-humanoid"
+    headquarters: "Zúrich, Suiza"
+    priority: "B"
+    fit_now: 2.5
+    fit_18m: 4.5
+    best_route: "Solution Architect, customer deployment, technical program"
+    migration: "Permiso suizo restrictivo para no UE/EFTA"
+    careers: "https://robotics.hexagon.com/careers/"
+    note: "Acepta candidatura espontánea; esperar evidencia fuerte de despliegue industrial."
+
+  - id: "pollen"
+    input_name: "Pollen Robotics"
+    canonical_name: "Pollen Robotics, part of Hugging Face"
+    category: "open-source-humanoid"
+    headquarters: "Burdeos, Francia"
+    priority: "B"
+    fit_now: 3
+    fit_18m: 4
+    best_route: "Open-source contributor, developer/customer applications"
+    migration: "No había vacantes ni política publicada"
+    careers: "https://pollen-robotics.com/"
+    note: "Mejor empresa para generar señal pública vía Reachy, ROS 2 y contribuciones."
+
+  - id: "idealworks"
+    input_name: "Ideaworks"
+    canonical_name: "Idealworks GmbH"
+    category: "intralogistics"
+    headquarters: "Múnich, Alemania"
+    priority: "A"
+    fit_now: 4
+    fit_18m: 5
+    best_route: "Commissioning, product integration, solutions"
+    migration: "No publicada; pertenece a Agile Robots"
+    careers: "https://idealworks.jobs.personio.de/?language=en"
+    note: "Normalización pendiente de confirmación de Nicolas: se asume que Ideaworks era Idealworks."
+
+  - id: "abb"
+    input_name: "ABB Robotics"
+    canonical_name: "ABB Robotics"
+    category: "industrial"
+    headquarters: "Suiza; oficina en Bogotá"
+    priority: "A"
+    fit_now: 4
+    fit_18m: 4.8
+    best_route: "Sales/Application Engineer, automation, motion, digital solutions"
+    migration: "Entrada local en Colombia; movilidad internacional posterior"
+    careers: "https://careers.abb/global/en"
+    note: "RobotStudio, RAPID y OmniCore deben entrar al plan técnico."
+
+  - id: "fanuc"
+    input_name: "FANUC"
+    canonical_name: "FANUC"
+    category: "industrial"
+    headquarters: "Japón; hub europeo en Luxemburgo"
+    priority: "B"
+    fit_now: 3.2
+    fit_18m: 4.2
+    best_route: "FA Application Engineer, CNC/robotics applications"
+    migration: "Sponsorship no publicado"
+    careers: "https://career.fanuc.eu/"
+    note: "La experiencia CNC diferencia; añadir ROBOGUIDE y machine tending."
+
+  - id: "linde"
+    input_name: "Linde"
+    canonical_name: "Linde Material Handling / KION Automation"
+    category: "intralogistics"
+    headquarters: "Aschaffenburg, Alemania"
+    priority: "A"
+    fit_now: 3.8
+    fit_18m: 4.7
+    best_route: "Commissioning, solution consulting, automation project engineering"
+    migration: "Sponsorship no publicado"
+    careers: "https://www.linde-mh.com/en/About-us/Working-at-Linde/"
+    note: "No confundir con Linde plc; alemán, PLC y commissioning son brechas."
+
+  - id: "serve"
+    input_name: "Serve Robotics"
+    canonical_name: "Serve Robotics"
+    category: "delivery"
+    headquarters: "Redwood City, Estados Unidos"
+    priority: "C"
+    fit_now: 3.5
+    fit_18m: 4.5
+    best_route: "Software implementation, market expansion, robot operations"
+    migration: "Sponsorship no publicado; roles de campo estadounidenses"
+    careers: "https://www.serverobotics.com/careers/"
+    note: "Gran ajuste funcional después de demostrar Python/SQL/APIs y fleet deployment."
+
+  - id: "zipline"
+    input_name: "Zipline"
+    canonical_name: "Zipline"
+    category: "autonomous-delivery"
+    headquarters: "South San Francisco, Estados Unidos"
+    priority: "C"
+    fit_now: 4
+    fit_18m: 4.5
+    best_route: "Forward Deployed AI, field support, deployment program"
+    migration: "Sponsorship no publicado"
+    careers: "https://www.flyzipline.com/careers"
+    note: "Forward Deployed AI es un rol puente excelente; confirmar autorización primero."
+
+  - id: "mercedes"
+    input_name: "Mercedes-Benz"
+    canonical_name: "Mercedes-Benz"
+    category: "automotive-user"
+    headquarters: "Stuttgart, Alemania"
+    priority: "C"
+    fit_now: 2.8
+    fit_18m: 4.1
+    best_route: "Production digitalization, MO360, automation architecture"
+    migration: "No había sponsorship profesional compatible confirmado"
+    careers: "https://jobs.mercedes-benz.com/"
+    note: "Objetivo como usuario e integrador de humanoides; alemán B1 mejora la ruta."
+
+  - id: "byd"
+    input_name: "BYD"
+    canonical_name: "BYD Europe"
+    category: "automotive-and-industrial"
+    headquarters: "China; operaciones europeas"
+    priority: "A"
+    fit_now: 3.4
+    fit_18m: 4.3
+    best_route: "Field service, digitalization, automation, robot engineering"
+    migration: "Varias vacantes europeas mencionan relocation allowance y visa sponsorship if applicable"
+    careers: "https://careers.bydeurope.com/"
+    note: "La mejor señal migratoria explícita del listado; revisar cada requisición."
+
+  - id: "caterpillar"
+    input_name: "Caterpillar"
+    canonical_name: "Caterpillar; GECOLSA/RELIANZ como entrada colombiana"
+    category: "heavy-autonomy"
+    headquarters: "Estados Unidos; distribuidores en Colombia"
+    priority: "B"
+    fit_now: 3.5
+    fit_18m: 4.5
+    best_route: "MineStar, dealer technology, deployment, digital solutions"
+    migration: "Vacantes estadounidenses revisadas negaban sponsorship"
+    careers: "https://careers.caterpillar.com/"
+    note: "La ruta realista empieza por distribuidores y minería en Colombia."
+
+  - id: "t-mobile"
+    input_name: "T-Mobile"
+    canonical_name: "T-Mobile"
+    category: "connectivity-platform"
+    headquarters: "Bellevue, Estados Unidos"
+    priority: "C"
+    fit_now: 3.5
+    fit_18m: 4.5
+    best_route: "Solutions Architect Physical AI, edge AI, 5G/MEC"
+    migration: "Vacantes revisadas exigían autorización estadounidense"
+    careers: "https://careers.t-mobile.com/corporate-jobs"
+    note: "No fabrica robots; solo priorizar roles explícitos de Physical/Edge AI."
+
+  - id: "nvidia"
+    input_name: "NVIDIA"
+    canonical_name: "NVIDIA"
+    category: "physical-ai-platform"
+    headquarters: "Santa Clara, Estados Unidos; oficinas globales"
+    priority: "B"
+    fit_now: 3
+    fit_18m: 5
+    best_route: "Solutions Architect Physical AI, Omniverse, edge AI"
+    migration: "Sponsorship/reubicación dependen de vacante; no publicados en las revisadas"
+    careers: "https://jobs.nvidia.com/"
+    note: "Objetivo laboral y stack habilitador: Isaac, Jetson, TensorRT, Omniverse y GR00T."

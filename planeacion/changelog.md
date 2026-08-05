@@ -8,6 +8,40 @@ resuelve, se borra de allí y aparece aquí.
 
 ## 2026-08
 
+### 2026-08-05 — `main` pasa a ser la rama de trabajo por defecto
+
+- **[git]** Unificado en `main` el trabajo del repositorio principal. Las ramas
+  dejan de crearse por el tamaño de una tarea: se reservan para contextos que
+  necesiten aislamiento real, como experimentos descartables, cambios riesgosos,
+  trabajo paralelo prolongado o colaboración externa.
+- **[git]** Actualizado [AGENTS.md](../AGENTS.md) para que los agentes continúen
+  trabajando normalmente sobre `main` y no fragmenten el contexto en ramas
+  rutinarias.
+
+### 2026-08-01 — Plan integral para entrar a robótica + IA
+
+- **[carrera]** Investigadas las 32 empresas seleccionadas por Nicolas, con
+  portales oficiales, vacantes compatibles, sedes, requisitos, ajuste actual y
+  a 18 meses, barreras lingüísticas y evidencia —o ausencia— de patrocinio
+  migratorio.
+- **[carrera]** Creado
+  [empresas-robotica-ia.yaml](../conocimiento/identidad/empresas-robotica-ia.yaml)
+  como inventario procesable. La primera ola queda formada por Universal
+  Robots/Teradyne, NEURA, Agile Robots, Idealworks, ABB, Linde/KION y BYD Europe.
+  Estados Unidos se mantiene como pista condicionada a patrocinio confirmado.
+- **[carrera]** Creado
+  [plan-transicion-robotica-ia.md](../conocimiento/identidad/plan-transicion-robotica-ia.md)
+  con horizonte de 18 meses: roles puente, estrategia geográfica y migratoria,
+  tres CV, mejora de la web, proyecto ROS 2 + IA + nube, integración industrial,
+  eventos, aplicaciones por olas, preparación de entrevistas y métricas.
+- **[carrera]** Registrada la oportunidad urgente de **LARS/LARC 2026 en Bogotá**:
+  decidir antes del cierre del 2026-08-05 si el proyecto TurtleBot tiene una
+  contribución defendible para póster, caso aplicado o tutorial. No se publicará
+  novedad o evidencia que no exista.
+- **[carrera]** Creado un canvas interactivo complementario para filtrar las
+  empresas por prioridad y categoría, comparar ajuste actual/futuro y llevar
+  control de los primeros hitos.
+
 ### 2026-08-01 — Primera investigación de identidad y objetivo robótica + IA
 
 - **[identidad]** Investigado el LinkedIn público de Nicolas, su portafolio,

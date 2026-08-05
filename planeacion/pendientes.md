@@ -160,17 +160,34 @@ ruido. `dify-unmecaniko` es un fork de `langgenius/dify` y `aid-sdlc` también
 figura como fork: pueden demostrar experimentación o contribución, pero no deben
 atribuirse como productos o metodologías propias sin evidencia adicional.
 
+### 8. Ejecutar el plan de transición a robótica + IA
+
+**Qué falta.** Ejecutar
+[plan-transicion-robotica-ia.md](../conocimiento/identidad/plan-transicion-robotica-ia.md):
+unificar el perfil, crear tres CV, mejorar la web, construir dos demostradores,
+cerrar brechas de integración industrial y aplicar por olas a las 32 empresas de
+[empresas-robotica-ia.yaml](../conocimiento/identidad/empresas-robotica-ia.yaml).
+
+**Primer hito urgente.** Antes del 2026-08-05, decidir si el proyecto TurtleBot
+puede presentarse responsablemente como póster, caso aplicado o tutorial en
+LARS/LARC 2026. Si no hay contribución publicable, participar como asistente,
+voluntario, mentor o jurado.
+
+**Cómo se mide.** Revisar mensualmente proyectos terminados, contenido,
+contribuciones, conversaciones, aplicaciones personalizadas, entrevistas,
+razones de rechazo y empresas que confirmen patrocinio.
+
 ---
 
 ## 🟡 Prioridad baja / higiene
 
-### 8. Endurecer el VPS
+### 9. Endurecer el VPS
 
 - Entrar como usuario sin privilegios con `sudo`, y `PermitRootLogin no`.
 - Configurar `unattended-upgrades` para parches de seguridad.
 - Detalle en [vps-velo.md](../conocimiento/infraestructura/vps-velo.md#seguridad-del-servidor).
 
-### 9. Dónde debe vivir `infra/`
+### 10. Dónde debe vivir `infra/`
 
 La infraestructura del VPS está en el repositorio de la CNC
 ([magiaRojaV3/infra/](https://github.com/UnMecaNiko/magiaRojaV3/tree/main/infra)),
@@ -178,7 +195,7 @@ herencia de cuando el servidor era solo para su landing. Hoy aloja n8n y la
 presentación de Theker, que no son de la CNC. Evaluar moverla aquí o a un
 repositorio propio de infraestructura.
 
-### 10. Dominios: inventario y correo
+### 11. Dominios: inventario y correo
 
 - Fechas de expiración y renovación automática de `unmecaniko.com` y
   `velasquezlopez.com`: no están documentadas.
@@ -190,19 +207,19 @@ repositorio propio de infraestructura.
   `unmecaniko.com`.
 - Detalle en [dominios-y-dns.md](../conocimiento/infraestructura/dominios-y-dns.md).
 
-### 11. Despliegue atómico de sitios estáticos
+### 12. Despliegue atómico de sitios estáticos
 
 Hoy la extracción del `tar` deja unos segundos con archivos viejos y nuevos
 conviviendo. Subir a un directorio hermano y mover un enlace simbólico.
 
-### 12. Duplicados de documentación
+### 13. Duplicados de documentación
 
 - `context/repository-context.md` existe **también** en el repositorio de la web.
   Dos copias divergen: decidir cuál es la fuente y borrar la otra.
 - `.github/copilot-instructions.md` repite parte de lo que ahora está en
   [AGENTS.md](../AGENTS.md). Reducirlo a un puntero, como se hizo con `CLAUDE.md`.
 
-### 13. El servidor MCP de `context/main.py`
+### 14. El servidor MCP de `context/main.py`
 
 - Indexa los archivos **por nombre de base**, así que los siete `index.md` de
   `projects/` se pisan entre sí en el diccionario: solo uno queda accesible.

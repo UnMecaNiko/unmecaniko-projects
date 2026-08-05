@@ -3,6 +3,81 @@
 Investigación inicial realizada el 2026-08-01. Las vacantes cambian rápido:
 siempre se debe verificar el enlace oficial antes de postular.
 
+La lista canónica y procesable de las 32 empresas seleccionadas por Nicolas está
+en [empresas-robotica-ia.yaml](empresas-robotica-ia.yaml). Conserva el nombre
+original, la normalización, puntuaciones, ruta de entrada, barrera migratoria y
+portal de empleo. El plan completo está en
+[plan-transicion-robotica-ia.md](plan-transicion-robotica-ia.md).
+
+## Prioridad consolidada
+
+### Ola A — actuar durante los próximos seis meses
+
+- **Universal Robots / Teradyne Robotics:** el rol Physical AI Field
+  Applications reproduce casi exactamente el puente buscado entre preventa, IA
+  y robótica; la ruta LATAM pasa por México y Brasil.
+- **NEURA Robotics:** Application Engineer Automation aprovecha Python,
+  robótica, clientes y diseño de sistemas. Faltan PLC, visión industrial y
+  alemán.
+- **Agile Robots:** applications/deployment es buen ajuste y su página de
+  carreras declara ayuda con reubicación y visa.
+- **Idealworks:** commissioning, integración de flotas y producto; pertenece a
+  Agile Robots.
+- **ABB Robotics:** la oficina de Bogotá permite entrar sin barrera migratoria
+  por ventas técnicas, automatización, motion o digital solutions.
+- **Linde Material Handling / KION Automation:** commissioning e intralogística
+  aprovechan mecatrónica, CNC, clientes y formación.
+- **BYD Europe:** field service, automatización y digitalización; algunas
+  vacantes técnicas publican `visa sponsorship if applicable` y ayuda de
+  reubicación.
+
+### Ola B — construir señal y monitorear
+
+- **Franka Robotics:** preparar MoveIt 2 y aplicaciones; esperar que vuelva a
+  abrir integración o applications.
+- **Pollen Robotics:** contribuir en Reachy/ROS 2 permite construir relación sin
+  esperar una vacante.
+- **NVIDIA:** dominar Isaac, Jetson, TensorRT y Omniverse; buscar Solutions
+  Architect y partners con presencia regional.
+- **Hexagon Robotics:** excelente ajuste futuro en deployment/solutions, con
+  barrera alta de permiso suizo.
+- **FANUC:** la experiencia CNC es diferenciadora; añadir ROBOGUIDE y machine
+  tending.
+- **Foxconn/Hon Hai:** automatización y humanoides industriales; mandarín y
+  contratación internacional no confirmada.
+- **Caterpillar:** entrar por GECOLSA/RELIANZ y tecnología minera en Colombia,
+  no por las vacantes estadounidenses que niegan patrocinio.
+
+### Ola C — gran ajuste funcional, condicionada a inmigración
+
+- **Zipline, Serve Robotics y Diligent Robotics:** deployment, fleet engineering
+  y Forward Deployed AI son rutas excelentes, pero no apareció patrocinio
+  confirmado.
+- **Humanoid:** test, integration o deployment serían adecuados; SKL Robotics no
+  figuraba en el registro británico de sponsors revisado.
+- **1X:** monitorear Noruega; los roles actuales se concentran en California.
+- **AgiBot y LG/LG CNS:** solo equipos internacionales en inglés; el idioma local
+  es una barrera operativa.
+- **Mercedes-Benz:** buscar MO360, digital factory y automatización después de
+  experiencia industrial y alemán.
+- **T-Mobile:** únicamente Physical/Edge AI; no es fabricante de robots y las
+  vacantes revisadas exigían autorización estadounidense.
+
+### Ola D — observar, no concentrar esfuerzo hoy
+
+- **Boston Dynamics:** la vacante de Field Applications revisada excluía
+  patrocinio.
+- **Agility Robotics:** las vacantes actuales exigen autorización laboral
+  estadounidense vigente.
+- **Figure, Persona AI y Fauna Robotics:** roles presenciales en Estados Unidos,
+  sin patrocinio publicado y con experiencia robótica profunda.
+- **Disney Research:** investigación exige posgrado/publicaciones; Show Controls
+  sigue condicionado por autorización.
+- **XPENG y RobotEra:** roles altamente especializados y contratación
+  internacional opaca.
+- **Mentee by Mobileye:** monitorear infraestructura e integración en Israel,
+  pero no hay reubicación publicada.
+
 ## Tesis de búsqueda
 
 El perfil tiene mejor ajuste inmediato en la capa que lleva robots con IA desde
