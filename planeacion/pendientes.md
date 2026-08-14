@@ -176,12 +176,14 @@ y su tracker en
 Falta congelar el CV maestro, producir las tres variantes y enviar cada
 candidatura con confirmación final de Nicolas.
 
-**Vacante nueva fuera de la ola.** Generado un borrador de CV para
+**Vacante nueva fuera de la ola.** Generado un CV para
 [Sales Representative en Robot.com](https://robot.na.teamtailor.com/jobs/391940-sales-representative)
 (San Francisco, híbrido) en
 [cv-robot-com-sales-representative.md](../conocimiento/identidad/cv-robot-com-sales-representative.md).
-No enviar sin resolver ubicación/sponsorship, uso de HubSpot y el correo de
-contacto — ver notas al final de ese documento.
+Uso de HubSpot y correo de contacto ya confirmados por Nicolas. Único
+bloqueador activo: confirmar por escrito con Robot.com si el puesto acepta
+candidatos remotos desde Colombia o patrocinan visa de trabajo en EE. UU. —
+no enviar la postulación hasta tener respuesta.
 
 **Primer hito urgente.** Antes del 2026-08-05, decidir si el proyecto TurtleBot
 puede presentarse responsablemente como póster, caso aplicado o tutorial en

@@ -5,16 +5,21 @@
 > (San Francisco, hybrid). Basado en datos verificados en
 > [perfil-profesional.md](perfil-profesional.md), [trayectoria.md](trayectoria.md),
 > [capacidades.md](capacidades.md), [logros.md](logros.md) y
-> [formacion.md](formacion.md). No enviar sin que Nicolas confirme datos de
-> contacto, disponibilidad de reubicación/sponsorship y los puntos marcados
-> ⏳ PENDIENTE.
+> [formacion.md](formacion.md).
+>
+> 🔴 **NO ENVIAR TODAVÍA.** El puesto es en San Francisco y la vacante no
+> indica sponsorship. Nicolas confirmó (2026-08-14) que esto hay que
+> resolverlo primero — preguntar por escrito antes de aplicar si consideran
+> candidatos remotos desde Colombia o si patrocinan visa de trabajo en
+> EE. UU. Ver nota 1 al final.
 
 ---
 
 ## Nicolas Velasquez Lopez
 
 Bogotá, Colombia · Open to hybrid/relocation with employer-supported work
-authorization ⏳ PENDIENTE (confirmar con Nicolas) · English C1 / Spanish native
+authorization 🔴 PENDIENTE — confirmar sponsorship con Robot.com antes de
+enviar · English C1 / Spanish native ·
 [LinkedIn](https://www.linkedin.com/in/unmecaniko/) · [unmecaniko.com](https://www.unmecaniko.com)
 · unmecaniko@gmail.com
 
@@ -37,6 +42,8 @@ bring that consultative, technical sales approach to autonomous robotics.
 - Designs and presents demos and proof-of-concept solutions tailored to each
   account, working alongside sales, product, and engineering to move deals
   forward.
+- Uses **HubSpot** as the CRM for pipeline and ticket follow-up, and built a
+  HubSpot automation to streamline that ticket-tracking workflow.
 - ⏳ PENDIENTE: cuantificar volumen de cuentas, tasa de conversión de demos o
   ciclo de venta promedio con cifras públicas o autorizadas por Truora.
 
@@ -45,9 +52,7 @@ Jul 2024–Jul 2025
 - Owned technical discovery and solution design for named enterprise accounts,
   balancing performance, availability, cost, scalability, and security.
 - Led the architecture for a cloud migration for a major Colombian betting/tech
-  company, a deal publicly stated to have more than doubled the account's
-  monthly recurring revenue for Huawei Cloud (self-reported; no independent
-  source available — present as a stated, not audited, result).
+  company.
 - Delivered technical trainings and webinars on AI and Kubernetes across
   Colombia and Ecuador, supporting the sales motion with technical enablement.
 
@@ -104,18 +109,11 @@ Jul 2024–Jul 2025
 
 ### Notes before applying (no enviar sin resolver)
 
-1. **CRM/HubSpot:** no hay evidencia pública de uso de HubSpot específicamente.
-   Si Nicolas ha usado HubSpot u otro CRM en Truora/Huawei, agregarlo aquí con
-   detalle; si no, no afirmarlo — el fit del rol pide explícitamente
-   "HubSpot experience valued", no obligatorio.
-2. **Ubicación/visa:** el puesto es en San Francisco, híbrido. No hay
-   indicación de sponsorship en la vacante. Antes de aplicar, preguntar por
-   escrito si consideran candidatos remotos desde Colombia o si patrocinan
-   visa de trabajo en EE. UU. — mismo tipo de pregunta usada para otras
-   vacantes de Robot.com en
-   [primera-ola-postulaciones.md](primera-ola-postulaciones.md).
-3. **Cuota de ventas/cifras:** no inflar resultados de Huawei/Truora; usar el
-   lenguaje de "stated result, not independently audited" como está arriba.
-4. **Contacto:** confirmar con Nicolas si el correo público
-   (unmecaniko@gmail.com) es el que quiere usar en esta postulación o si
-   prefiere otro canal.
+1. 🔴 **Ubicación/visa — bloqueador activo.** El puesto es en San Francisco,
+   híbrido, y la vacante no indica sponsorship. Nicolas confirmó (2026-08-14)
+   que hay que resolver esto primero. Antes de aplicar, preguntar por escrito
+   si consideran candidatos remotos desde Colombia o si patrocinan visa de
+   trabajo en EE. UU. — mismo tipo de pregunta usada para otras vacantes de
+   Robot.com en
+   [primera-ola-postulaciones.md](primera-ola-postulaciones.md). No enviar la
+   postulación hasta tener respuesta.

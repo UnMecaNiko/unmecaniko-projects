@@ -28,6 +28,9 @@ reciente en despliegues robóticos de producción.
   dirigir sesiones de descubrimiento; entender arquitectura, requisitos y
   objetivos del cliente; diseñar y presentar demostraciones y pruebas de
   concepto.
+- **CRM:** usa HubSpot para seguimiento de tickets y construyó una
+  automatización dentro de HubSpot para ese flujo. Confirmado directamente por
+  Nicolas (2026-08-14), no depende de fuentes públicas.
 - **Valor para robótica:** experiencia directamente transferible a venta
   consultiva, pilotos e integración de plataformas robóticas con clientes.
 - **Fuente:** [LinkedIn](https://www.linkedin.com/in/unmecaniko/) (consultado el
