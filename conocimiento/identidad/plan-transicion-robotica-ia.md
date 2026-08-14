@@ -134,6 +134,12 @@ programa explícito de movilidad internacional.
 
 ## Plan de ejecución
 
+La primera búsqueda de vacantes activas, verificada el 2026-08-05, está en
+[primera-ola-postulaciones.md](primera-ola-postulaciones.md). Incluye ocho
+procesos principales, cinco condicionales, orden de ejecución, bloqueadores
+migratorios y tres variantes de CV. Su tracker procesable está en
+[primera-ola-postulaciones.yaml](primera-ola-postulaciones.yaml).
+
 ## Fase 0 — oportunidad urgente, 1–5 de agosto de 2026
 
 ### Decisión LARS/LARC 2026

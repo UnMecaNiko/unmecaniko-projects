@@ -168,6 +168,21 @@ unificar el perfil, crear tres CV, mejorar la web, construir dos demostradores,
 cerrar brechas de integración industrial y aplicar por olas a las 32 empresas de
 [empresas-robotica-ia.yaml](../conocimiento/identidad/empresas-robotica-ia.yaml).
 
+**Primera ola preparada.** Las vacantes activas, el orden de aplicación y los
+bloqueadores están en
+[primera-ola-postulaciones.md](../conocimiento/identidad/primera-ola-postulaciones.md)
+y su tracker en
+[primera-ola-postulaciones.yaml](../conocimiento/identidad/primera-ola-postulaciones.yaml).
+Falta congelar el CV maestro, producir las tres variantes y enviar cada
+candidatura con confirmación final de Nicolas.
+
+**Vacante nueva fuera de la ola.** Generado un borrador de CV para
+[Sales Representative en Robot.com](https://robot.na.teamtailor.com/jobs/391940-sales-representative)
+(San Francisco, híbrido) en
+[cv-robot-com-sales-representative.md](../conocimiento/identidad/cv-robot-com-sales-representative.md).
+No enviar sin resolver ubicación/sponsorship, uso de HubSpot y el correo de
+contacto — ver notas al final de ese documento.
+
 **Primer hito urgente.** Antes del 2026-08-05, decidir si el proyecto TurtleBot
 puede presentarse responsablemente como póster, caso aplicado o tutorial en
 LARS/LARC 2026. Si no hay contribución publicable, participar como asistente,

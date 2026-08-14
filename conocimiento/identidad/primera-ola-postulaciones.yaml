@@ -1,0 +1,233 @@
+metadata:
+  owner: "Nicolas Velasquez Lopez"
+  objective: "Primera ola de postulaciones a startups de robótica y Physical AI"
+  verified_at: "2026-08-05"
+  current_location: "Bogotá, Colombia"
+  languages:
+    spanish: "nativo"
+    english: "C1 avanzado"
+  constraints:
+    us_work_authorization: false
+    germany_work_authorization: false
+    spain_work_authorization: false
+  status_values:
+    ready: "Preparar candidatura personalizada y enviar"
+    contact_first: "Resolver elegibilidad o condición crítica antes de aplicar"
+    stretch: "Aplicar solo con evidencia adicional y tiempo disponible"
+    skip: "No invertir esfuerzo en esta ola"
+
+primary_wave:
+  - id: "trener-applications-southern-europe"
+    company: "Trener Robotics"
+    role: "Applications Engineer, Southern Europe"
+    fit_score: 94
+    status: "contact_first"
+    location: "Barcelona, España; viajes por el sur de Europa"
+    role_url: "https://jobs.ashbyhq.com/trener-robotics/ae86e23b-90bd-49d9-9fa5-2f96679f738b"
+    why:
+      - "Discovery, demos y ciclo técnico de venta"
+      - "Implementación y customer success de software robótico con IA"
+      - "Inglés y español profesionales"
+      - "Startup y equipo inicial en Barcelona"
+    blockers:
+      - "Patrocinio de permiso de trabajo no publicado"
+      - "Debe demostrar experiencia suficiente en integración y despliegue"
+    first_action: "Preguntar si patrocinan permiso español para un colombiano y aplicar con CV de Robotics Solutions."
+    cv_variant: "robotics-solutions"
+
+  - id: "theker-gtm-strategy"
+    company: "THEKER Robotics"
+    role: "GTM & Strategy"
+    fit_score: 90
+    status: "contact_first"
+    location: "Barcelona, España; 100% presencial"
+    role_url: "https://theker.factorialhr.com/job_posting/gtm-strategy-307367"
+    why:
+      - "Venta B2B enterprise de soluciones complejas"
+      - "Discovery, POCs, propuestas, ROI y coordinación con ingeniería"
+      - "Uso sistemático de IA en investigación y preparación comercial"
+      - "Experiencia actual en preventa e interlocución técnica"
+    blockers:
+      - "Patrocinio migratorio no publicado"
+      - "Debe demostrar influencia C-level, pipeline y cierres sin inventar cifras"
+    first_action: "Aplicar y preguntar antes del case study por permiso de profesional altamente cualificado."
+    cv_variant: "technical-gtm"
+
+  - id: "neura-pre-sales-solution-manager"
+    company: "NEURA Robotics"
+    role: "Pre Sales / Solution Manager"
+    fit_score: 89
+    status: "ready"
+    location: "Riederich, Alemania; presencial"
+    role_url: "https://jobs.neura-robotics.com/offer/pre-sales-solution-manager-human/820b559d-3c75-41e7-ae1c-3c9b3cfa7a81"
+    why:
+      - "Discovery, demos, pilotos, integraciones y presentaciones ejecutivas"
+      - "Exposición requerida a APIs, SDKs, IA, software o robótica"
+      - "Experiencia Truora + Huawei transferible"
+    blockers:
+      - "Pide 4+ años en funciones técnico-comerciales"
+      - "Robótica comercial e integración física limitadas"
+      - "Patrocinio no publicado"
+    first_action: "Aplicar con cronología completa de experiencia customer-facing y preguntar por Blue Card."
+    cv_variant: "robotics-solutions"
+
+  - id: "simbe-enterprise-solutions"
+    company: "Simbe Robotics"
+    role: "Enterprise Solutions Engineer"
+    fit_score: 88
+    status: "ready"
+    location: "Remoto; confirmar entidad contratante y residencia permitida"
+    role_url: "https://jobs.lever.co/SimbeRobotics/35f0c1ea-ae03-471c-b603-c6fdb3ca415c"
+    why:
+      - "Integraciones POS, ERP, WMS, APIs, Python, SQL y cloud"
+      - "Rol customer-facing en robótica autónoma para retail"
+      - "La solicitud declara sponsorship para empleados calificados"
+    blockers:
+      - "Confirmar si consideran candidatos fuera de Estados Unidos"
+      - "Reforzar Python y SQL con evidencia"
+    first_action: "Aplicar declarando necesidad de sponsorship y disponibilidad de reubicación."
+    cv_variant: "robotics-solutions"
+
+  - id: "nomagic-tpm-software"
+    company: "Nomagic"
+    role: "Technical Project Manager – Software"
+    fit_score: 86
+    status: "contact_first"
+    location: "Varsovia, Polonia; híbrido y visitas mensuales en Europa"
+    role_url: "https://jobs.lever.co/Nomagic/8ee92b4b-acd6-464c-a2e0-86d27a3e2f43"
+    why:
+      - "Entrega de estaciones robóticas y coordinación multidisciplinaria"
+      - "Software, ML, mecánica, automatización y relación con clientes"
+      - "Opera en inglés y publica paquete de relocalización"
+    blockers:
+      - "Visa o permiso de trabajo no prometido en la vacante"
+      - "Debe demostrar gestión end-to-end de proyectos"
+    first_action: "Confirmar si el paquete incluye permiso para ciudadano colombiano; después aplicar."
+    cv_variant: "technical-projects"
+
+  - id: "robotic-crew-delivery-manager"
+    company: "Robotic Crew"
+    role: "Delivery Manager"
+    fit_score: 83
+    status: "ready"
+    location: "100% remoto LATAM; pago en USD"
+    role_url: "https://robotic-crew.com/careers/"
+    why:
+      - "Llevar plataformas de Physical AI desde contrato hasta despliegue"
+      - "Clientes enterprise y coordinación de equipos distribuidos"
+      - "Experiencia en solutions architecture y comunicación"
+    blockers:
+      - "Pide 5+ años en delivery, implementation o solutions architecture"
+      - "Falta despliegue probado en entornos físicos"
+    first_action: "Aplicar con Huawei, Truora, infraestructura y CNC como una sola narrativa de delivery técnico."
+    cv_variant: "technical-projects"
+
+  - id: "robot-service-desk"
+    company: "Robot.com / Kiwibot"
+    role: "Service Desk Robotics Engineer"
+    fit_score: 80
+    status: "contact_first"
+    location: "Ficha dice San Francisco; cuerpo menciona onboarding en Medellín y remoto posterior"
+    role_url: "https://robot.na.teamtailor.com/jobs/391750-service-desk-robotics-engineer"
+    why:
+      - "Python, SQL, Git, APIs, Linux, Docker, sensores y ROS"
+      - "Troubleshooting de robots reales desde Colombia"
+      - "Camino directo a operaciones de flota"
+    blockers:
+      - "Inconsistencia de ubicación y entidad contractual"
+      - "Rol junior/entry-level; posible reducción salarial y de seniority"
+    first_action: "Confirmar contrato colombiano, compensación y plan de crecimiento antes de aplicar."
+    cv_variant: "robotics-deployment"
+
+  - id: "pal-industrial-project-manager"
+    company: "PAL Robotics"
+    role: "Project Manager for Industrial Projects"
+    fit_score: 79
+    status: "contact_first"
+    location: "Barcelona, España"
+    role_url: "https://jobs.smartrecruiters.com/PalRobotics/744000137868532-project-manager-for-industrial-projects"
+    why:
+      - "Cliente principal desde scoping hasta handover"
+      - "Coordinación de equipos técnicos y proyectos industriales"
+      - "Inglés y español; pide 1+ año de project management"
+    blockers:
+      - "Sponsorship no publicado"
+      - "Rango publicado de 32.000–38.000 EUR puede limitar algunas rutas migratorias"
+      - "Debe demostrar liderazgo completo de proyectos"
+    first_action: "Preguntar por elegibilidad migratoria y salario para candidato internacional antes de enviar."
+    cv_variant: "technical-projects"
+
+conditional_wave:
+  - id: "robot-junior-implementation"
+    company: "Robot.com / Kiwibot"
+    role: "Junior Implementation Engineer"
+    fit_score: 85
+    status: "contact_first"
+    location: "Medellín, Colombia; despliegues internacionales"
+    role_url: "https://robot.na.teamtailor.com/jobs/580928-junior-implementation-engineer"
+    blocker: "Exige visa estadounidense válida y es una reducción de seniority."
+    first_action: "Preguntar si admiten ingreso condicionado a obtener visa y solicitar rango salarial."
+
+  - id: "mujin-tpm-robotics"
+    company: "Mujin Europe"
+    role: "Technical Project Manager – Robotics"
+    fit_score: 82
+    status: "contact_first"
+    location: "Best, Países Bajos; hasta 50% de viajes"
+    role_url: "https://jobs.lever.co/mujininc/fab8333f-e079-432d-b51d-6c77c7ca82be"
+    blocker: "La vacante no promete sponsorship, aunque Mujin Europe gestiona permisos para empleados internacionales."
+    first_action: "Confirmar permiso y aplicar con CV de proyectos técnicos."
+
+  - id: "theker-technical-deployment"
+    company: "THEKER Robotics"
+    role: "Technical Deployment Engineer"
+    fit_score: 72
+    status: "stretch"
+    location: "Barcelona, España; 100% presencial"
+    role_url: "https://theker.factorialhr.com/job_posting/technical-deployment-engineer-307369"
+    blocker: "Faltan normativa europea, seguridad de maquinaria y despliegues industriales formales."
+    first_action: "Priorizar GTM; usar esta vacante solo como candidatura secundaria."
+
+  - id: "automate-col-engineer"
+    company: "AUTOMATE COL"
+    role: "Ingeniero Mecatrónico, Electrónico o de Sistemas"
+    fit_score: 76
+    status: "contact_first"
+    location: "Rionegro, Antioquia; presencial y sábados"
+    role_url: "https://linkempleo.co/vacante/ingeniero-mecatronico-electronico-o-de-sistemas/"
+    blocker: "Nivel y compensación no publicados; requiere Python/C++ práctico."
+    first_action: "Solicitar rango salarial y alcance antes de aplicar."
+
+  - id: "gobano-application-engineer"
+    company: "Gobano Robotics"
+    role: "Robotic Application Engineer"
+    fit_score: 73
+    status: "stretch"
+    location: "Nantes, Francia; presencial y viajes europeos"
+    role_url: "https://www.welcometothejungle.com/en/companies/gobano-robotics/jobs/en-fr-robotic-application-engineer_nantes"
+    blocker: "Exige Python fuerte, manipulación física y despliegues; patrocinio no publicado."
+    first_action: "Aplicar solo con demo Python/ROS convincente y confirmación migratoria."
+
+  - id: "cav-commercial"
+    company: "CAV Robotics"
+    role: "Ingeniería Comercial / candidatura espontánea"
+    fit_score: 78
+    status: "contact_first"
+    location: "Medellín, Colombia"
+    role_url: "https://www.cavrobotics.com.co/"
+    blocker: "La publicación encontrada no tiene ficha de empleo vigente verificable."
+    first_action: "Enviar propuesta espontánea de Solutions/Application Engineer al canal corporativo publicado."
+
+skip_for_now:
+  - company: "Rhoda AI"
+    role: "Junior Applications Engineer"
+    reason: "Exige alemán de trabajo; reconsiderar cuando Nicolas alcance ese nivel."
+  - company: "Sereact"
+    role: "Field Deployment Engineer"
+    reason: "Exige 3+ años liderando deployments industriales y 75% de viajes."
+  - company: "Ekumen"
+    role: "Semi Senior Robotics Engineer"
+    reason: "Exige 4+ años profesionales de C++ moderno y Python."
+  - company: "Wandercraft"
+    role: "Customer Solutions Engineer"
+    reason: "El portal indicó que la posición ya no estaba disponible durante la verificación final."

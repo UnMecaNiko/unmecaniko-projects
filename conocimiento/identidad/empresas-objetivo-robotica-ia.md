@@ -7,7 +7,11 @@ La lista canónica y procesable de las 32 empresas seleccionadas por Nicolas est
 en [empresas-robotica-ia.yaml](empresas-robotica-ia.yaml). Conserva el nombre
 original, la normalización, puntuaciones, ruta de entrada, barrera migratoria y
 portal de empleo. El plan completo está en
-[plan-transicion-robotica-ia.md](plan-transicion-robotica-ia.md).
+[plan-transicion-robotica-ia.md](plan-transicion-robotica-ia.md). La búsqueda de
+vacantes activas del 2026-08-05 y su orden de aplicación están en
+[primera-ola-postulaciones.md](primera-ola-postulaciones.md), con tracker
+procesable en
+[primera-ola-postulaciones.yaml](primera-ola-postulaciones.yaml).
 
 ## Prioridad consolidada
 
@@ -128,8 +132,12 @@ producción que la evidencia pública todavía no demuestra.
   por debajo del nivel actual si el cargo es estrictamente junior.
 - **Acción:** buscar un rol de integración, customer solutions o fleet
   operations, no limitarse a Service Desk.
-- **Fuente disponible:** [descripción indexada](https://roboticsengineerjobs.com/companies/robot-com/jobs/service-desk-robotics-engineer).
-  Debe verificarse en el portal oficial antes de aplicar.
+- **Fuentes oficiales verificadas:**
+  [Service Desk Robotics Engineer](https://robot.na.teamtailor.com/jobs/391750-service-desk-robotics-engineer)
+  y
+  [Junior Implementation Engineer](https://robot.na.teamtailor.com/jobs/580928-junior-implementation-engineer).
+- **Bloqueadores:** confirmar que Service Desk se contrata por la entidad
+  colombiana; Junior Implementation exige visa estadounidense válida.
 
 ### CAV Robotics
 
@@ -167,6 +175,8 @@ producción que la evidencia pública todavía no demuestra.
 ### THEKER Robotics — Barcelona
 
 - Construye sistemas de robótica y Physical AI para trabajo industrial.
+- **GTM & Strategy** es el mejor ajuste inmediato: discovery, venta B2B
+  enterprise, business cases, POCs y coordinación con ingeniería.
 - El cargo **Systems Engineer** conecta robots y sensores con infraestructura,
   almacenamiento, monitoreo y scripts Python: es uno de los ajustes técnicos más
   cercanos al perfil.
@@ -177,6 +187,7 @@ producción que la evidencia pública todavía no demuestra.
   Barcelona.
 - **Ajuste:** alto en dirección profesional; medio en requisitos actuales.
 - **Fuentes:** [careers](https://www.theker.eu/careers),
+  [GTM & Strategy](https://theker.factorialhr.com/job_posting/gtm-strategy-307367),
   [Systems Engineer](https://theker.factorialhr.com/job_posting/systems-engineer-297830)
   y
   [Technical Deployment Engineer](https://theker.factorialhr.com/job_posting/technical-deployment-engineer-307369).

@@ -8,6 +8,36 @@ resuelve, se borra de allí y aparece aquí.
 
 ## 2026-08
 
+### 2026-08-14 — Borrador de CV para Sales Representative en Robot.com
+
+- **[carrera]** Creado
+  [cv-robot-com-sales-representative.md](../conocimiento/identidad/cv-robot-com-sales-representative.md)
+  a partir de la vacante de
+  [Sales Representative en Robot.com](https://robot.na.teamtailor.com/jobs/391940-sales-representative)
+  (San Francisco, híbrido), reusando solo datos verificados en
+  `conocimiento/identidad/`. Quedan pendientes de resolver antes de enviar:
+  confirmación de ubicación/sponsorship, uso real de HubSpot y el correo de
+  contacto a usar.
+
+### 2026-08-05 — Primera ola de postulaciones a startups de robótica
+
+- **[carrera]** Verificadas vacantes activas en startups y fabricantes de
+  robótica de Europa, Colombia/LATAM y Estados Unidos. Se priorizaron ocho
+  procesos que pueden defenderse con la experiencia actual y cinco candidaturas
+  condicionales; se descartaron roles que exigirían inventar profundidad en C++,
+  ROS 2, alemán o despliegue industrial.
+- **[carrera]** Creados
+  [primera-ola-postulaciones.md](../conocimiento/identidad/primera-ola-postulaciones.md)
+  y
+  [primera-ola-postulaciones.yaml](../conocimiento/identidad/primera-ola-postulaciones.yaml)
+  con URLs oficiales, puntuación de ajuste, bloqueadores, orden de aplicación,
+  preguntas migratorias y variantes de CV.
+- **[carrera]** La primera línea queda formada por Trener Applications,
+  THEKER GTM, NEURA Pre-Sales, Simbe Enterprise Solutions, Nomagic TPM, Robotic
+  Crew Delivery, Robot.com Service Desk y PAL Project Manager. Sponsorship,
+  ubicación contractual y seniority se verificarán antes de invertir en pruebas
+  extensas.
+
 ### 2026-08-05 — `main` pasa a ser la rama de trabajo por defecto
 
 - **[git]** Unificado en `main` el trabajo del repositorio principal. Las ramas
