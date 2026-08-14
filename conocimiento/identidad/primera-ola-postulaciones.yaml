@@ -218,6 +218,27 @@ conditional_wave:
     blocker: "La publicación encontrada no tiene ficha de empleo vigente verificable."
     first_action: "Enviar propuesta espontánea de Solutions/Application Engineer al canal corporativo publicado."
 
+opportunistic:
+  - id: "fieldai-ai-solution-engineer-fixed-term"
+    company: "FieldAI"
+    role: "AI Solution Engineer (Fixed-Term)"
+    fit_score: 86
+    status: "contact_first"
+    location: "Irvine, CA; on-site; ~10% travel"
+    role_url: "https://jobs.lever.co/field-ai/65561b5c-2348-4b88-9e73-ff9c6265dbf4"
+    linkedin_url: "https://www.linkedin.com/jobs/view/4430789625"
+    cv_file: "cv-fieldai-ai-solution-engineer.md"
+    why:
+      - "Discovery con clientes, Python, LLM en producción y sistemas agénticos"
+      - "El 'what sets you apart' pide solutions / forward deployed engineering"
+      - "Empresa de Physical AI con despliegues reales; no pide ROS 2 ni C++"
+    blockers:
+      - "On-site Irvine, contrato fixed-term, 35–50 USD/hora"
+      - "Sponsorship no publicado en este requisition"
+    first_action: "Enviar el correo de elegibilidad del CV FieldAI y declarar reubicación inmediata a Irvine."
+    cv_variant: "applied-ai-solutions"
+    decided_at: "2026-08-14"
+
 skip_for_now:
   - company: "Rhoda AI"
     role: "Junior Applications Engineer"

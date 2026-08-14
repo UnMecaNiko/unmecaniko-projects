@@ -176,14 +176,21 @@ y su tracker en
 Falta congelar el CV maestro, producir las tres variantes y enviar cada
 candidatura con confirmación final de Nicolas.
 
-**Vacante nueva fuera de la ola.** Generado un CV para
-[Sales Representative en Robot.com](https://robot.na.teamtailor.com/jobs/391940-sales-representative)
-(San Francisco, híbrido) en
-[cv-robot-com-sales-representative.md](../conocimiento/identidad/cv-robot-com-sales-representative.md).
-Uso de HubSpot y correo de contacto ya confirmados por Nicolas. Único
-bloqueador activo: confirmar por escrito con Robot.com si el puesto acepta
-candidatos remotos desde Colombia o patrocinan visa de trabajo en EE. UU. —
-no enviar la postulación hasta tener respuesta.
+**Vacantes nuevas fuera de la ola.**
+
+- [Sales Representative en Robot.com](https://robot.na.teamtailor.com/jobs/391940-sales-representative)
+  (San Francisco, híbrido): CV en
+  [cv-robot-com-sales-representative.md](../conocimiento/identidad/cv-robot-com-sales-representative.md).
+  Uso de HubSpot y correo de contacto ya confirmados. Único bloqueador:
+  confirmar por escrito sponsorship o remoto desde Colombia — no enviar
+  hasta tener respuesta.
+- [AI Solution Engineer (Fixed-Term) en FieldAI](https://jobs.lever.co/field-ai/65561b5c-2348-4b88-9e73-ff9c6265dbf4)
+  (Irvine, on-site): CV y correo listos en
+  [cv-fieldai-ai-solution-engineer.md](../conocimiento/identidad/cv-fieldai-ai-solution-engineer.md).
+  Nicolas autorizó enviar el correo de elegibilidad y declarar
+  reubicación inmediata a Irvine. Falta: exportar el CV a PDF, pegar el
+  cover letter en Lever o LinkedIn, y registrar la respuesta de
+  sponsorship.
 
 **Primer hito urgente.** Antes del 2026-08-05, decidir si el proyecto TurtleBot
 puede presentarse responsablemente como póster, caso aplicado o tutorial en

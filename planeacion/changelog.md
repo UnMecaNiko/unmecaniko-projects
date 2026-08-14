@@ -8,6 +8,17 @@ resuelve, se borra de allí y aparece aquí.
 
 ## 2026-08
 
+### 2026-08-14 — CV y correo para AI Solution Engineer en FieldAI
+
+- **[carrera]** Creados CV y cover letter en
+  [cv-fieldai-ai-solution-engineer.md](../conocimiento/identidad/cv-fieldai-ai-solution-engineer.md)
+  para
+  [AI Solution Engineer (Fixed-Term) en FieldAI](https://jobs.lever.co/field-ai/65561b5c-2348-4b88-9e73-ff9c6265dbf4)
+  (Irvine, on-site). Nicolas decidió tantear el terreno ahora: el correo
+  pregunta sponsorship con claridad y declara disponibilidad total para
+  reubicarse en Irvine. FieldAI se añadió al inventario y al tracker de
+  postulaciones.
+
 ### 2026-08-14 — Borrador de CV para Sales Representative en Robot.com
 
 - **[carrera]** Creado

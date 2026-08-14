@@ -433,3 +433,16 @@ companies:
     migration: "Sponsorship/reubicación dependen de vacante; no publicados en las revisadas"
     careers: "https://jobs.nvidia.com/"
     note: "Objetivo laboral y stack habilitador: Isaac, Jetson, TensorRT, Omniverse y GR00T."
+
+  - id: "fieldai"
+    input_name: "FieldAI"
+    canonical_name: "FieldAI"
+    category: "physical-ai-platform"
+    headquarters: "Irvine, Estados Unidos"
+    priority: "C"
+    fit_now: 4
+    fit_18m: 4.5
+    best_route: "AI Solutions Engineer, Field Application Engineer, forward deployed"
+    migration: "La empresa ha presentado LCAs H-1B (FY2025–2026); el req fixed-term de 2026-08-14 no publica sponsorship"
+    careers: "https://jobs.lever.co/field-ai"
+    note: "Embodied AI / Field Foundation Models. Ajuste funcional alto; el posting revisado es temporal, hourly y on-site. Tanteo autorizado el 2026-08-14."
