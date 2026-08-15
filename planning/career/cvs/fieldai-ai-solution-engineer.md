@@ -5,9 +5,11 @@
 > (Irvine, CA, on-site). Anuncio también en
 > [LinkedIn](https://www.linkedin.com/jobs/view/4430789625).
 > Basado en datos verificados en
-> [perfil-profesional.md](perfil-profesional.md), [trayectoria.md](trayectoria.md),
-> [capacidades.md](capacidades.md), [logros.md](logros.md) y
-> [formacion.md](formacion.md).
+> [perfil-profesional.md](../../../knowledge/identity/perfil-profesional.md),
+> [trayectoria.md](../../../knowledge/identity/trayectoria.md),
+> [capacidades.md](../../../knowledge/identity/capacidades.md),
+> [logros.md](../../../knowledge/identity/logros.md) y
+> [formacion.md](../../../knowledge/identity/formacion.md).
 >
 > Nicolas confirmó (2026-08-14) que quiere tantear el terreno ahora: enviar
 > el correo de elegibilidad, declarar disponibilidad total para reubicarse
@@ -84,16 +86,16 @@ into playbooks.”
 takes a real logistics workflow from voice/text request to rider match.
 Built as a production-shaped LLM application, not a notebook demo.
 [domichat.com.co](https://www.domichat.com.co/) ·
-[project](../../projects/domichat/index.md)
+[project](../../../projects/domichat/index.md)
 
 **CNC Magia Roja** — designed and integrated electronics, firmware (GRBL),
 stepper motors, sensors, wiring, and safety on a working CNC used in a
 family business. Comfortable sitting next to hardware, not only APIs.
-[project](../../projects/cnc-magiaRoja-v2/index.md)
+[project](../../../projects/cnc-magiaRoja-v2/index.md)
 
 **TurtleBot trajectory control** — ROS, Gazebo, MATLAB/Simulink; validated
 in simulation and on hardware.
-[project](../../projects/control-turtlebot/index.md)
+[project](../../../projects/control-turtlebot/index.md)
 
 ### Why this is a FieldAI Solutions profile
 
@@ -142,7 +144,8 @@ Usar el mismo texto en tres sitios, sin reescribirlo:
    permite.
 3. **Correo** — si aparece un contacto de recruiting; si no, Lever basta.
 
-Adjuntar este CV en PDF (exportar la sección de arriba, sin estas notas).
+Adjuntar el PDF ya generado: [fieldai-ai-solution-engineer.pdf](fieldai-ai-solution-engineer.pdf)
+(solo la sección de arriba, sin estas notas de envío).
 
 **Asunto:** AI Solution Engineer (Fixed-Term), Irvine — relocation ready, one eligibility question
 

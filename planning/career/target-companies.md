@@ -4,14 +4,14 @@ Investigación inicial realizada el 2026-08-01. Las vacantes cambian rápido:
 siempre se debe verificar el enlace oficial antes de postular.
 
 La lista canónica y procesable de las 32 empresas seleccionadas por Nicolas está
-en [empresas-robotica-ia.yaml](empresas-robotica-ia.yaml). Conserva el nombre
+en [target-companies.yaml](target-companies.yaml). Conserva el nombre
 original, la normalización, puntuaciones, ruta de entrada, barrera migratoria y
 portal de empleo. El plan completo está en
-[plan-transicion-robotica-ia.md](plan-transicion-robotica-ia.md). La búsqueda de
+[transition-plan.md](transition-plan.md). La búsqueda de
 vacantes activas del 2026-08-05 y su orden de aplicación están en
-[primera-ola-postulaciones.md](primera-ola-postulaciones.md), con tracker
+[applications.md](applications.md), con tracker
 procesable en
-[primera-ola-postulaciones.yaml](primera-ola-postulaciones.yaml).
+[applications.yaml](applications.yaml).
 
 ## Prioridad consolidada
 
@@ -273,7 +273,7 @@ producción que la evidencia pública todavía no demuestra.
 ### Próximos 90 días
 
 1. Construir el demostrador ROS 2 + IA + nube descrito en
-   [capacidades.md](capacidades.md).
+   [capacidades.md](../../knowledge/identity/capacidades.md).
 2. Publicar una serie técnica en inglés y español.
 3. Practicar entrevistas de diseño de integración robótica, diagnóstico,
    seguridad y estimación de pilotos.
@@ -306,7 +306,7 @@ Eso sube de prioridad todo el clúster catalán —THEKER Robotics y PAL Robotic
 justifica tratar España como mercado primario, no como plan B.
 
 **Idiomas de trabajo: resueltos.** Español nativo, inglés bilingüe, chino
-elemental, portugués en aprendizaje. Ver [formacion.md](formacion.md).
+elemental, portugués en aprendizaje. Ver [formacion.md](../../knowledge/identity/formacion.md).
 
 ## La búsqueda ya empezó — hay dos postulaciones en marcha
 
@@ -317,7 +317,7 @@ Del material local se deduce algo que este repositorio no registraba:
   vacantes.
 - La presentación [theker.velasquezlopez.com](https://theker.velasquezlopez.com)
   —cuyo código vive en
-  [codigo/theker-sistema-operativo-ia/](../../codigo/theker-sistema-operativo-ia/)—
+  [code/theker-sistema-operativo-ia/](../../code/theker-sistema-operativo-ia/)—
   se llama «Theker» y es una muestra pública y anonimizada de la arquitectura de
   preventa asistida por agentes. **Todo apunta a que es una pieza de esa
   postulación**: un portafolio hecho a la medida del empleador objetivo.
@@ -449,9 +449,9 @@ Arreglos concretos:
    —`magiaRojaV3`, `unmecaniko-projects`, `DomiChat_AI_Hackaton2025`,
    `turtleBot3-RoboticaRos`, `SpeedCheese-FLFR`, `controlAvanzadoMotor`— para que
    no queden enterrados entre los ~30 repositorios de cursos de Platzi. Esto se
-   solapa con el pendiente #7 de [pendientes.md](../../planeacion/pendientes.md).
+   solapa con el pendiente #7 de [pendientes.md](../pendientes.md).
 
 > ⏳ PENDIENTE: el canal de YouTube [@unmecaniko](https://www.youtube.com/@unmecaniko)
 > no se pudo inventariar — YouTube no entrega el contenido del canal a
 > herramientas automáticas. Hace falta que Nicolas liste videos, fechas y temas, o
-> que se consulte con sesión iniciada. Ver [publicaciones-y-charlas.md](publicaciones-y-charlas.md).
+> que se consulte con sesión iniciada. Ver [publicaciones-y-charlas.md](../../knowledge/identity/publicaciones-y-charlas.md).

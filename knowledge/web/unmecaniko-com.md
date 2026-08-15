@@ -10,7 +10,7 @@ ve en producción en menos de cinco minutos, sin desplegar nada.
 
 | Pieza | Qué es |
 |---|---|
-| Dominio | `unmecaniko.com` (+ `www`), DNS en Huawei Cloud → Vercel. Ver [../infraestructura/dominios-y-dns.md](../infraestructura/dominios-y-dns.md) |
+| Dominio | `unmecaniko.com` (+ `www`), DNS en Huawei Cloud → Vercel. Ver [../infrastructure/dominios-y-dns.md](../infrastructure/dominios-y-dns.md) |
 | Código | [professionalWebsite](https://github.com/UnMecaNiko/professionalWebsite) — Next.js + TypeScript + Tailwind, componentes shadcn/ui, gestor `pnpm` |
 | Origen del diseño | Generado con [v0.app](https://v0.app); el repositorio se sincroniza automáticamente con los despliegues de v0 |
 | Hosting | Vercel, proyecto `v0-web-site-2-0` (`https://v0-web-site-2-0.vercel.app`) |
@@ -58,7 +58,7 @@ Detalles que importan:
 |---|---|
 | Editar el cuerpo de un `index.md` | Se ve en ≤ 5 min. Seguro. |
 | Añadir una carpeta nueva en `projects/` con su `index.md` | Aparece sola en el listado. Seguro. |
-| Añadir carpetas de primer nivel (`conocimiento/`, `codigo/`, `planeacion/`) | Ninguno: la web solo mira `projects/`. Seguro. |
+| Añadir carpetas de primer nivel (`knowledge/`, `code/`, `planning/`) | Ninguno: la web solo mira `projects/`. Seguro. |
 | Cambiar un nombre de campo del front-matter | Puede romper la página del proyecto. |
 | Renombrar una carpeta de `projects/` | Cambia la URL pública. Rompe enlaces externos. |
 | Borrar una carpeta de `projects/` | El proyecto desaparece de la web. |
@@ -80,7 +80,7 @@ visibilidad:
    de `lib/github.ts`.
 4. Desplegar y verificar **antes** de cambiar la visibilidad.
 
-Está registrado en [../../planeacion/pendientes.md](../../planeacion/pendientes.md).
+Está registrado en [../../planning/pendientes.md](../../planning/pendientes.md).
 
 ## Riesgos detectados
 
@@ -109,4 +109,4 @@ Está registrado en [../../planeacion/pendientes.md](../../planeacion/pendientes
 
 - [../../AGENTS.md](../../AGENTS.md) — reglas de las dos capas
 - [../../context/project-template.md](../../context/project-template.md) — el front-matter que consume la web
-- [../infraestructura/dominios-y-dns.md](../infraestructura/dominios-y-dns.md) — DNS del dominio
+- [../infrastructure/dominios-y-dns.md](../infrastructure/dominios-y-dns.md) — DNS del dominio

@@ -1,7 +1,7 @@
 # Primera ola de postulaciones — robótica y Physical AI
 
 Vacantes verificadas el 2026-08-05. La fuente procesable está en
-[primera-ola-postulaciones.yaml](primera-ola-postulaciones.yaml).
+[applications.yaml](applications.yaml).
 
 ## Objetivo de la ola
 

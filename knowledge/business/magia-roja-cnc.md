@@ -54,7 +54,7 @@ Todo en [github.com/UnMecaNiko/magiaRojaV3](https://github.com/UnMecaNiko/magiaR
 | Historia de v1 y v2 | [`conocimiento/historia/`](https://github.com/UnMecaNiko/magiaRojaV3/tree/main/conocimiento/historia) |
 | Propuesta de valor y mercado | [`comercial/`](https://github.com/UnMecaNiko/magiaRojaV3/tree/main/comercial) (sin precios, por regla) |
 | Código de la landing | [`salidas/web/`](https://github.com/UnMecaNiko/magiaRojaV3/tree/main/salidas/web) |
-| Infraestructura del VPS | [`infra/`](https://github.com/UnMecaNiko/magiaRojaV3/tree/main/infra) — documentada en [../infraestructura/vps-velo.md](../infraestructura/vps-velo.md) |
+| Infraestructura del VPS | [`infra/`](https://github.com/UnMecaNiko/magiaRojaV3/tree/main/infra) — documentada en [../infrastructure/vps-velo.md](../infrastructure/vps-velo.md) |
 | Qué falta y qué cambió | [`harness/planeacion/`](https://github.com/UnMecaNiko/magiaRojaV3/tree/main/harness/planeacion) |
 
 ## Reglas de ese repositorio que hay que respetar desde aquí
@@ -90,5 +90,5 @@ de primera calidad y ya tiene fichas públicas:
 
 ## Ver también
 
-- [../infraestructura/vps-velo.md](../infraestructura/vps-velo.md) — el servidor donde corre la landing
-- [../infraestructura/dominios-y-dns.md](../infraestructura/dominios-y-dns.md) — el dominio `velasquezlopez.com`
+- [../infrastructure/vps-velo.md](../infrastructure/vps-velo.md) — el servidor donde corre la landing
+- [../infrastructure/dominios-y-dns.md](../infrastructure/dominios-y-dns.md) — el dominio `velasquezlopez.com`

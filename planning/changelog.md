@@ -8,10 +8,49 @@ resuelve, se borra de allí y aparece aquí.
 
 ## 2026-08
 
+### 2026-08-14 — Reorganización: nombres en inglés y carpeta de crecimiento profesional
+
+- **[repo]** Renombradas las tres carpetas de la capa interna a inglés:
+  `conocimiento/` → `knowledge/`, `codigo/` → `code/`, `planeacion/` →
+  `planning/`, junto con sus subcarpetas (`identidad/` → `identity/`,
+  `negocios/` → `business/`, `infraestructura/` → `infrastructure/`).
+  - **Por qué así:** los nombres de carpeta ahora son **inglés en todo el
+    repositorio**, mientras el **contenido** de la capa interna sigue en
+    español. La regla 2 de [AGENTS.md](../AGENTS.md) se reescribió para
+    separar explícitamente idioma de *nombres* e idioma de *contenido*, que
+    antes estaban acoplados.
+- **[repo]** Creada [planning/career/](career/) y movido allí todo el
+  seguimiento de la búsqueda laboral, que estaba mezclado dentro de
+  `conocimiento/identidad/`:
+  `plan-transicion-robotica-ia.md` → `transition-plan.md`,
+  `empresas-objetivo-robotica-ia.md/.yaml` → `target-companies.md/.yaml`,
+  `primera-ola-postulaciones.md/.yaml` → `applications.md/.yaml`, y las hojas
+  de vida a `career/cvs/`.
+  - **Por qué así:** `knowledge/identity/` responde *quién es Nicolas* — datos
+    de referencia estables. A qué vacante se aplica y en qué estado va es
+    **seguimiento operativo que cambia cada semana**, y mezclarlo con la
+    identidad hacía que la carpeta de identidad creciera con archivos que no
+    son identidad. Ahora los CV se generan *desde* `knowledge/identity/` y
+    viven en `planning/career/`.
+- **[repo]** Creado [planning/career/README.md](career/README.md) como índice
+  de la carpeta: estrategia, tracker de postulaciones, tabla de hojas de vida
+  con su Markdown y su PDF, y el procedimiento para generar un PDF nuevo.
+- **[carrera]** Exportado el **PDF del CV de FieldAI**
+  ([fieldai-ai-solution-engineer.pdf](career/cvs/fieldai-ai-solution-engineer.pdf),
+  84 KB, 2 páginas), listo para adjuntar en Lever. Se generó con Chrome
+  headless desde un HTML intermedio porque el equipo no tiene `pandoc` ni
+  `wkhtmltopdf`. El PDF contiene solo la hoja de vida: las notas internas de
+  envío se quedan en el Markdown.
+- **[repo]** Actualizadas todas las referencias cruzadas del repositorio
+  (`AGENTS.md`, `pendientes.md`, `changelog.md`, documentos de identidad,
+  infraestructura, web y el README de Theker) y verificadas con un chequeo de
+  enlaces: los únicos enlaces rotos que quedan son el de `projects/izy/`, ya
+  registrado como pendiente #6.
+
 ### 2026-08-14 — CV y correo para AI Solution Engineer en FieldAI
 
 - **[carrera]** Creados CV y cover letter en
-  [cv-fieldai-ai-solution-engineer.md](../conocimiento/identidad/cv-fieldai-ai-solution-engineer.md)
+  [cv-fieldai-ai-solution-engineer.md](../planning/career/cvs/fieldai-ai-solution-engineer.md)
   para
   [AI Solution Engineer (Fixed-Term) en FieldAI](https://jobs.lever.co/field-ai/65561b5c-2348-4b88-9e73-ff9c6265dbf4)
   (Irvine, on-site). Nicolas decidió tantear el terreno ahora: el correo
@@ -22,11 +61,11 @@ resuelve, se borra de allí y aparece aquí.
 ### 2026-08-14 — Borrador de CV para Sales Representative en Robot.com
 
 - **[carrera]** Creado
-  [cv-robot-com-sales-representative.md](../conocimiento/identidad/cv-robot-com-sales-representative.md)
+  [cv-robot-com-sales-representative.md](../planning/career/cvs/robot-com-sales-representative.md)
   a partir de la vacante de
   [Sales Representative en Robot.com](https://robot.na.teamtailor.com/jobs/391940-sales-representative)
   (San Francisco, híbrido), reusando solo datos verificados en
-  `conocimiento/identidad/`. Quedan pendientes de resolver antes de enviar:
+  `knowledge/identity/`. Quedan pendientes de resolver antes de enviar:
   confirmación de ubicación/sponsorship, uso real de HubSpot y el correo de
   contacto a usar.
 
@@ -38,9 +77,9 @@ resuelve, se borra de allí y aparece aquí.
   condicionales; se descartaron roles que exigirían inventar profundidad en C++,
   ROS 2, alemán o despliegue industrial.
 - **[carrera]** Creados
-  [primera-ola-postulaciones.md](../conocimiento/identidad/primera-ola-postulaciones.md)
+  [primera-ola-postulaciones.md](../planning/career/applications.md)
   y
-  [primera-ola-postulaciones.yaml](../conocimiento/identidad/primera-ola-postulaciones.yaml)
+  [primera-ola-postulaciones.yaml](../planning/career/applications.yaml)
   con URLs oficiales, puntuación de ajuste, bloqueadores, orden de aplicación,
   preguntas migratorias y variantes de CV.
 - **[carrera]** La primera línea queda formada por Trener Applications,
@@ -66,12 +105,12 @@ resuelve, se borra de allí y aparece aquí.
   a 18 meses, barreras lingüísticas y evidencia —o ausencia— de patrocinio
   migratorio.
 - **[carrera]** Creado
-  [empresas-robotica-ia.yaml](../conocimiento/identidad/empresas-robotica-ia.yaml)
+  [empresas-robotica-ia.yaml](../planning/career/target-companies.yaml)
   como inventario procesable. La primera ola queda formada por Universal
   Robots/Teradyne, NEURA, Agile Robots, Idealworks, ABB, Linde/KION y BYD Europe.
   Estados Unidos se mantiene como pista condicionada a patrocinio confirmado.
 - **[carrera]** Creado
-  [plan-transicion-robotica-ia.md](../conocimiento/identidad/plan-transicion-robotica-ia.md)
+  [plan-transicion-robotica-ia.md](../planning/career/transition-plan.md)
   con horizonte de 18 meses: roles puente, estrategia geográfica y migratoria,
   tres CV, mejora de la web, proyecto ROS 2 + IA + nube, integración industrial,
   eventos, aplicaciones por olas, preparación de entrevistas y métricas.
@@ -87,11 +126,11 @@ resuelve, se borra de allí y aparece aquí.
 
 - **[identidad]** Investigado el LinkedIn público de Nicolas, su portafolio,
   publicaciones, proyectos y repositorios destacados. Creados
-  [trayectoria.md](../conocimiento/identidad/trayectoria.md),
-  [capacidades.md](../conocimiento/identidad/capacidades.md),
-  [formacion.md](../conocimiento/identidad/formacion.md),
-  [logros.md](../conocimiento/identidad/logros.md) y
-  [publicaciones-y-charlas.md](../conocimiento/identidad/publicaciones-y-charlas.md),
+  [trayectoria.md](../knowledge/identity/trayectoria.md),
+  [capacidades.md](../knowledge/identity/capacidades.md),
+  [formacion.md](../knowledge/identity/formacion.md),
+  [logros.md](../knowledge/identity/logros.md) y
+  [publicaciones-y-charlas.md](../knowledge/identity/publicaciones-y-charlas.md),
   con URLs, fecha de consulta y pendientes explícitos para todo dato que no pudo
   validarse.
 - **[carrera]** Definido el posicionamiento de entrada a robótica con IA:
@@ -100,7 +139,7 @@ resuelve, se borra de allí y aparece aquí.
   en esos roles que en puestos senior de percepción, autonomía o aprendizaje
   por refuerzo.
 - **[carrera]** Creado
-  [empresas-objetivo-robotica-ia.md](../conocimiento/identidad/empresas-objetivo-robotica-ia.md)
+  [empresas-objetivo-robotica-ia.md](../planning/career/target-companies.md)
   con empresas de Colombia, LATAM remota y reubicación internacional, vacantes
   de referencia, ajuste real, bloqueadores y un plan de 30/90 días.
 - **[calidad]** Detectadas dos inconsistencias del perfil público: LinkedIn
@@ -135,7 +174,7 @@ herramienta automática y el perfil no se puede leer en vivo.
 - **[identidad]** Precisadas las fechas de las certificaciones Huawei (HCIP marzo
   de 2025, HCIA AI mayo de 2024, HCIA Cloud Service abril de 2024) y calculada su
   **vigencia**: la HCIA AI, única credencial formal de IA del perfil, vencería
-  hacia mayo de 2027. Añadidos a [formacion.md](../conocimiento/identidad/formacion.md)
+  hacia mayo de 2027. Añadidos a [formacion.md](../knowledge/identity/formacion.md)
   los cursos de **MCP** y **Professional Scrum**, que sí sirven al
   posicionamiento y no estaban registrados.
 - **[carrera]** Resueltos dos pendientes de la lista de empresas objetivo: la
@@ -148,7 +187,7 @@ herramienta automática y el perfil no se puede leer en vivo.
   parece ser una pieza de la primera postulación. Falta confirmar el estado de
   ambos procesos.
 - **[carrera]** Añadidas a
-  [empresas-objetivo-robotica-ia.md](../conocimiento/identidad/empresas-objetivo-robotica-ia.md)
+  [empresas-objetivo-robotica-ia.md](../planning/career/target-companies.md)
   dos empresas ausentes y de ajuste alto: **NEURA Robotics** —Serie C de hasta
   1.400 M USD en junio de 2026, con vacante de Senior Solutions Engineer— y
   **PAL Robotics**, en el 22@ de Barcelona. Añadido el contexto de financiación
@@ -179,7 +218,7 @@ herramienta automática y el perfil no se puede leer en vivo.
   - **Capa pública** (`projects/`, `context/`, `README.md`): en inglés, la lee
     unmecaniko.com en vivo. **No se tocó nada de ella** — un cambio ahí sale a
     producción en menos de 5 minutos.
-  - **Capa interna** (`conocimiento/`, `codigo/`, `planeacion/`): en español,
+  - **Capa interna** (`knowledge/`, `code/`, `planning/`): en español,
     nueva, no la consume la web.
 - **[repo]** Regla explícita: **referenciar repositorios de GitHub, nunca carpetas
   locales**. Las rutas del equipo de trabajo se rompen al cambiar de máquina y no
@@ -188,26 +227,26 @@ herramienta automática y el perfil no se puede leer en vivo.
 ### 2026-07-30 — Contexto de la infraestructura
 
 - **[infra]** Documentado el **VPS de VELO inc** en
-  [conocimiento/infraestructura/vps-velo.md](../conocimiento/infraestructura/vps-velo.md):
+  [knowledge/infrastructure/vps-velo.md](../knowledge/infrastructure/vps-velo.md):
   Hostinger, `2.24.106.64`, Ubuntu 24.04.4, 1 vCPU / 3,8 GB, los tres stacks de
   Docker (`/opt/proxy`, `/opt/web-velo`, `/opt/n8n`), las redes `edge` y
   `n8n_interna`, los volúmenes y su criticidad, `ufw` + `fail2ban`, el Traefik
   dormido de la plantilla de Hostinger, y el procedimiento de respaldo. Todo
   **verificado por SSH**, no de memoria.
 - **[infra]** Documentados los **dominios y su DNS** en
-  [dominios-y-dns.md](../conocimiento/infraestructura/dominios-y-dns.md):
+  [dominios-y-dns.md](../knowledge/infrastructure/dominios-y-dns.md):
   `unmecaniko.com` con DNS en Huawei Cloud apuntando a Vercel, y
   `velasquezlopez.com` con DNS en Hostinger apuntando al VPS, con sus cuatro
   registros activos. Verificado contra los servidores autoritativos.
 - **[infra]** Documentado el **proxy Caddy** en
-  [proxy-caddy.md](../conocimiento/infraestructura/proxy-caddy.md): las dos formas
+  [proxy-caddy.md](../knowledge/infrastructure/proxy-caddy.md): las dos formas
   de publicar un sitio (archivos estáticos vs. proxy inverso a un contenedor) y el
   procedimiento completo para publicar un dominio nuevo — validar y probar contra
   contenedores desechables **antes** de tocar producción, y usar
   `docker compose up -d` en vez de `restart` porque `restart` no vuelve a leer el
   `.env`.
 - **[infra]** Creado el inventario de **accesos por referencia** en
-  [accesos.md](../conocimiento/infraestructura/accesos.md): qué credencial existe,
+  [accesos.md](../knowledge/infrastructure/accesos.md): qué credencial existe,
   para qué sirve y dónde vive, **sin su contenido**. Los valores reales van en
   `accesos.local.md`, ignorado por git, con plantilla versionada.
   - **Por qué así:** el repositorio es público y `context/main.py` expone todos sus
@@ -222,7 +261,7 @@ herramienta automática y el perfil no se puede leer en vivo.
 ### 2026-07-30 — La presentación de Theker entra al repositorio
 
 - **[codigo]** Movido el código de la presentación **«Sistema operativo de IA»** a
-  [codigo/theker-sistema-operativo-ia/](../codigo/theker-sistema-operativo-ia/), y
+  [code/theker-sistema-operativo-ia/](../code/theker-sistema-operativo-ia/), y
   borrado del repositorio de trabajo de Truora
   (`presales-customers-context`, Bitbucket), donde nunca estuvo commiteado.
   Actualizados el `AGENTS.md`, el `README.md` y el `CHANGELOG.md` de ese
@@ -250,7 +289,7 @@ herramienta automática y el perfil no se puede leer en vivo.
 ### 2026-07-30 — Contexto de la web pública
 
 - **[web]** Documentado en
-  [conocimiento/web/unmecaniko-com.md](../conocimiento/web/unmecaniko-com.md) cómo
+  [knowledge/web/unmecaniko-com.md](../knowledge/web/unmecaniko-com.md) cómo
   funciona unmecaniko.com, leyendo el código de
   [professionalWebsite](https://github.com/UnMecaNiko/professionalWebsite): Next.js
   en Vercel (proyecto `v0-web-site-2-0`, generado con v0.app), que lee `projects/`
@@ -279,13 +318,13 @@ herramienta automática y el perfil no se puede leer en vivo.
 - **[repo]** Creados [changelog.md](changelog.md) y [pendientes.md](pendientes.md)
   como bitácora y plan del repositorio.
 - **[repo]** Creado
-  [conocimiento/identidad/perfil-profesional.md](../conocimiento/identidad/perfil-profesional.md)
+  [knowledge/identity/perfil-profesional.md](../knowledge/identity/perfil-profesional.md)
   como punto de entrada a la trayectoria, con el mapa de los seis documentos que
   faltan (`trayectoria.md`, `capacidades.md`, `formacion.md`, `logros.md`,
   `publicaciones-y-charlas.md`, `tarifas-y-servicios.md`) y el pendiente grande de
   la búsqueda completa en internet.
 - **[repo]** Creada
-  [conocimiento/negocios/magia-roja-cnc.md](../conocimiento/negocios/magia-roja-cnc.md)
+  [knowledge/business/magia-roja-cnc.md](../knowledge/business/magia-roja-cnc.md)
   como ficha de negocio de la CNC, **referenciando** el repositorio magiaRojaV3
   para todo el detalle técnico en vez de duplicarlo, y dejando explícito que su
   carpeta `presupuesto/` es confidencial y no se cita desde aquí.

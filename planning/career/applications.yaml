@@ -227,7 +227,7 @@ opportunistic:
     location: "Irvine, CA; on-site; ~10% travel"
     role_url: "https://jobs.lever.co/field-ai/65561b5c-2348-4b88-9e73-ff9c6265dbf4"
     linkedin_url: "https://www.linkedin.com/jobs/view/4430789625"
-    cv_file: "cv-fieldai-ai-solution-engineer.md"
+    cv_file: "cvs/fieldai-ai-solution-engineer.md"
     why:
       - "Discovery con clientes, Python, LLM en producción y sistemas agénticos"
       - "El 'what sets you apart' pide solutions / forward deployed engineering"
@@ -237,6 +237,23 @@ opportunistic:
       - "Sponsorship no publicado en este requisition"
     first_action: "Enviar el correo de elegibilidad del CV FieldAI y declarar reubicación inmediata a Irvine."
     cv_variant: "applied-ai-solutions"
+    decided_at: "2026-08-14"
+
+  - id: "robot-com-sales-representative"
+    company: "Robot.com"
+    role: "Sales Representative"
+    fit_score: 78
+    status: "contact_first"
+    location: "San Francisco, CA; hybrid"
+    role_url: "https://robot.na.teamtailor.com/jobs/391940-sales-representative"
+    cv_file: "cvs/robot-com-sales-representative.md"
+    why:
+      - "Ciclo completo discovery → demo/POC → propuesta → cierre en Truora y Huawei"
+      - "Uso de HubSpot como CRM ya confirmado"
+    blockers:
+      - "San Francisco, sin sponsorship publicado"
+    first_action: "Preguntar por escrito si consideran remoto desde Colombia o patrocinan visa antes de aplicar."
+    cv_variant: "robotics-solutions"
     decided_at: "2026-08-14"
 
 skip_for_now:

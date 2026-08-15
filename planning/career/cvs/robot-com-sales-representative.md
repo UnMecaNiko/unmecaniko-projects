@@ -3,9 +3,11 @@
 > Generado el 2026-08-14 para la vacante
 > [Sales Representative — Robot.com](https://robot.na.teamtailor.com/jobs/391940-sales-representative)
 > (San Francisco, hybrid). Basado en datos verificados en
-> [perfil-profesional.md](perfil-profesional.md), [trayectoria.md](trayectoria.md),
-> [capacidades.md](capacidades.md), [logros.md](logros.md) y
-> [formacion.md](formacion.md).
+> [perfil-profesional.md](../../../knowledge/identity/perfil-profesional.md),
+> [trayectoria.md](../../../knowledge/identity/trayectoria.md),
+> [capacidades.md](../../../knowledge/identity/capacidades.md),
+> [logros.md](../../../knowledge/identity/logros.md) y
+> [formacion.md](../../../knowledge/identity/formacion.md).
 >
 > 🔴 **NO ENVIAR TODAVÍA.** El puesto es en San Francisco y la vacante no
 > indica sponsorship. Nicolas confirmó (2026-08-14) que esto hay que
@@ -82,9 +84,9 @@ Jul 2024–Jul 2025
 - Diseñó e integró la electrónica y el control de la CNC Magia Roja v2
   (firmware GRBL, motores paso a paso, sensores, cableado y protecciones).
 - Implementó control de trayectoria de un robot diferencial con ROS, Gazebo y
-  MATLAB/Simulink, validado en simulación y hardware ([TurtleBot](../../projects/control-turtlebot/index.md)).
+  MATLAB/Simulink, validado en simulación y hardware ([TurtleBot](../../../projects/control-turtlebot/index.md)).
 - Construyó DomiChat, un asistente multiagente con Gemini, WhatsApp, n8n y
-  Supabase ([DomiChat](../../projects/domichat/index.md)).
+  Supabase ([DomiChat](../../../projects/domichat/index.md)).
 - Da a este perfil una ventaja poco común en un vendedor: puede sostener una
   conversación técnica de discovery con un cliente de robótica sin depender
   siempre de un ingeniero de soporte.
@@ -115,5 +117,5 @@ Jul 2024–Jul 2025
    si consideran candidatos remotos desde Colombia o si patrocinan visa de
    trabajo en EE. UU. — mismo tipo de pregunta usada para otras vacantes de
    Robot.com en
-   [primera-ola-postulaciones.md](primera-ola-postulaciones.md). No enviar la
+   [applications.md](../applications.md). No enviar la
    postulación hasta tener respuesta.

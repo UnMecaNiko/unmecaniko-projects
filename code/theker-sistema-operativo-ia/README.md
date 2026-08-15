@@ -51,8 +51,8 @@ un despliegue nuevo no deja a nadie con una versión mezclada.
 El alias `velo-vps` y el bloque del dominio en el `Caddyfile` están documentados
 en:
 
-- [conocimiento/infraestructura/vps-velo.md](../../conocimiento/infraestructura/vps-velo.md) — el servidor y cómo se entra
-- [conocimiento/infraestructura/proxy-caddy.md](../../conocimiento/infraestructura/proxy-caddy.md) — el bloque de Caddy y el procedimiento completo
+- [knowledge/infrastructure/vps-velo.md](../../knowledge/infrastructure/vps-velo.md) — el servidor y cómo se entra
+- [knowledge/infrastructure/proxy-caddy.md](../../knowledge/infrastructure/proxy-caddy.md) — el bloque de Caddy y el procedimiento completo
 
 > ⏳ PENDIENTE: el despliegue no es atómico. Durante la extracción del `tar`
 > conviven archivos viejos y nuevos unos segundos.

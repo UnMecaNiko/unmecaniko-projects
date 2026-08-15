@@ -45,7 +45,7 @@ inventario o soporte independiente.
 **Trabajo actual:** Truora, en preventa e ingeniería de soluciones, construyendo
 operaciones asistidas por agentes de IA. La presentación pública de esa
 arquitectura es [theker.velasquezlopez.com](https://theker.velasquezlopez.com) y
-su código vive en [codigo/theker-sistema-operativo-ia/](../../codigo/theker-sistema-operativo-ia/).
+su código vive en [code/theker-sistema-operativo-ia/](../../code/theker-sistema-operativo-ia/).
 
 > ⚠️ El repositorio de contexto de ese trabajo es **privado y de la empresa**
 > (Bitbucket de Truora). Su contenido — clientes, cuentas, IDs, proveedores — no
@@ -53,7 +53,7 @@ su código vive en [codigo/theker-sistema-operativo-ia/](../../codigo/theker-sis
 > diseño y ya era pública.
 
 **Emprendimiento propio:** la CNC Magia Roja bajo la marca VELO inc. Ver
-[../negocios/magia-roja-cnc.md](../negocios/magia-roja-cnc.md).
+[../business/magia-roja-cnc.md](../business/magia-roja-cnc.md).
 
 ## Documentos de identidad
 
@@ -64,10 +64,23 @@ su código vive en [codigo/theker-sistema-operativo-ia/](../../codigo/theker-sis
 | [formacion.md](formacion.md) | Títulos, certificaciones, inconsistencias y formación prioritaria. |
 | [logros.md](logros.md) | Logros separados por fuerza de evidencia. |
 | [publicaciones-y-charlas.md](publicaciones-y-charlas.md) | Contenido, charlas y estrategia editorial. |
-| [empresas-objetivo-robotica-ia.md](empresas-objetivo-robotica-ia.md) | Roles, empresas y plan de posicionamiento para Physical AI. |
-| [empresas-robotica-ia.yaml](empresas-robotica-ia.yaml) | Inventario procesable de 32 empresas con ajuste, migración y portal laboral. |
-| [plan-transicion-robotica-ia.md](plan-transicion-robotica-ia.md) | Plan accionable de 18 meses: habilidades, portafolio, CV, web, eventos y aplicaciones. |
 | `tarifas-y-servicios.md` | Qué vende como servicio y en qué rango. **Ojo:** si lleva cifras, no puede estar en un repositorio público. |
+
+## Seguimiento de crecimiento profesional
+
+El plan de transición, el inventario de empresas objetivo y el seguimiento de
+postulaciones activas viven aparte, en
+[planning/career/](../../planning/career/), porque son seguimiento operativo
+del día a día y no datos de identidad:
+
+| Documento | Para qué sirve |
+|---|---|
+| [planning/career/transition-plan.md](../../planning/career/transition-plan.md) | Plan accionable de 18 meses: habilidades, portafolio, CV, web, eventos y aplicaciones. |
+| [planning/career/target-companies.md](../../planning/career/target-companies.md) | Roles, empresas y plan de posicionamiento para Physical AI. |
+| [planning/career/target-companies.yaml](../../planning/career/target-companies.yaml) | Inventario procesable de 32 empresas con ajuste, migración y portal laboral. |
+| [planning/career/applications.md](../../planning/career/applications.md) | Primera ola de postulaciones: orden de ejecución y calendario. |
+| [planning/career/applications.yaml](../../planning/career/applications.yaml) | Tracker procesable de cada postulación y su estado. |
+| [planning/career/cvs/](../../planning/career/cvs/) | Hojas de vida generadas por vacante, en Markdown y PDF. |
 
 > ⏳ PENDIENTE: crear `tarifas-y-servicios.md` solo después de volver privada la
 > capa interna; no deben publicarse cifras comerciales en el estado actual.
@@ -78,4 +91,4 @@ su código vive en [codigo/theker-sistema-operativo-ia/](../../codigo/theker-sis
 ## Ver también
 
 - [../../AGENTS.md](../../AGENTS.md) — reglas del repositorio
-- [../../planeacion/pendientes.md](../../planeacion/pendientes.md) — el plan completo
+- [../../planning/pendientes.md](../../planning/pendientes.md) — el plan completo

@@ -24,7 +24,7 @@ cosa con cifras.
 **Por qué no se puede hacer hoy, tal cual.** unmecaniko.com lee `projects/` con
 la **API de GitHub sin autenticar**, y esa API **no puede leer repositorios
 privados**. En el momento del cambio, la web se queda sin proyectos. El detalle
-está en [conocimiento/web/unmecaniko-com.md](../conocimiento/web/unmecaniko-com.md).
+está en [knowledge/web/unmecaniko-com.md](../knowledge/web/unmecaniko-com.md).
 
 **Cómo se hace.** Hay dos caminos y hay que elegir:
 
@@ -37,7 +37,7 @@ está en [conocimiento/web/unmecaniko-com.md](../conocimiento/web/unmecaniko-com
   paso el pendiente #2. Contra: un token que hay que rotar.
 - **B — Separar los repositorios.** Dejar `projects/` + `context/` en un
   repositorio público de solo contenido, y mover la capa interna
-  (`conocimiento/`, `codigo/`, `planeacion/`) a uno privado. Más limpio
+  (`knowledge/`, `code/`, `planning/`) a uno privado. Más limpio
   conceptualmente y sin tokens; a cambio, dos repositorios que mantener y la web
   apuntando a otro nombre.
 
@@ -51,7 +51,7 @@ archivos de infraestructura) y verificar la web en un despliegue de vista previa
 repositorio, y decidir si el diseño actual se mantiene.
 
 **Por qué importa.** Hay al menos cuatro cosas frágiles, todas documentadas en
-[conocimiento/web/unmecaniko-com.md](../conocimiento/web/unmecaniko-com.md):
+[knowledge/web/unmecaniko-com.md](../knowledge/web/unmecaniko-com.md):
 
 - **Límite de la API de GitHub.** Sin token son 60 peticiones/hora por IP. Cada
   revalidación gasta 1 + 1 por proyecto: con 7 proyectos, hasta ~96/hora. Está por
@@ -84,8 +84,8 @@ ilegibles.
 **Cómo se hace.** El propio n8n puede programar el respaldo a almacenamiento
 externo (Supabase, S3). La clave de cifrado y la llave SSH, a un gestor de
 contraseñas. Detalle en
-[conocimiento/infraestructura/vps-velo.md](../conocimiento/infraestructura/vps-velo.md#respaldos)
-y [accesos.md](../conocimiento/infraestructura/accesos.md).
+[knowledge/infrastructure/vps-velo.md](../knowledge/infrastructure/vps-velo.md#respaldos)
+y [accesos.md](../knowledge/infrastructure/accesos.md).
 
 ---
 
@@ -95,7 +95,7 @@ y [accesos.md](../conocimiento/infraestructura/accesos.md).
 
 **Qué falta.** La investigación pública inicial ya consolidó LinkedIn, proyectos,
 repositorios destacados, publicaciones, reconocimientos y empresas objetivo en
-[conocimiento/identidad/](../conocimiento/identidad/). Quedan fuentes que no
+[knowledge/identity/](../knowledge/identity/). Quedan fuentes que no
 pudieron cerrarse:
 
 - inventariar video por video el canal de YouTube;
@@ -163,16 +163,16 @@ atribuirse como productos o metodologías propias sin evidencia adicional.
 ### 8. Ejecutar el plan de transición a robótica + IA
 
 **Qué falta.** Ejecutar
-[plan-transicion-robotica-ia.md](../conocimiento/identidad/plan-transicion-robotica-ia.md):
+[planning/career/transition-plan.md](career/transition-plan.md):
 unificar el perfil, crear tres CV, mejorar la web, construir dos demostradores,
 cerrar brechas de integración industrial y aplicar por olas a las 32 empresas de
-[empresas-robotica-ia.yaml](../conocimiento/identidad/empresas-robotica-ia.yaml).
+[planning/career/target-companies.yaml](career/target-companies.yaml).
 
 **Primera ola preparada.** Las vacantes activas, el orden de aplicación y los
 bloqueadores están en
-[primera-ola-postulaciones.md](../conocimiento/identidad/primera-ola-postulaciones.md)
+[planning/career/applications.md](career/applications.md)
 y su tracker en
-[primera-ola-postulaciones.yaml](../conocimiento/identidad/primera-ola-postulaciones.yaml).
+[planning/career/applications.yaml](career/applications.yaml).
 Falta congelar el CV maestro, producir las tres variantes y enviar cada
 candidatura con confirmación final de Nicolas.
 
@@ -180,15 +180,16 @@ candidatura con confirmación final de Nicolas.
 
 - [Sales Representative en Robot.com](https://robot.na.teamtailor.com/jobs/391940-sales-representative)
   (San Francisco, híbrido): CV en
-  [cv-robot-com-sales-representative.md](../conocimiento/identidad/cv-robot-com-sales-representative.md).
+  [cvs/robot-com-sales-representative.md](career/cvs/robot-com-sales-representative.md).
   Uso de HubSpot y correo de contacto ya confirmados. Único bloqueador:
   confirmar por escrito sponsorship o remoto desde Colombia — no enviar
   hasta tener respuesta.
 - [AI Solution Engineer (Fixed-Term) en FieldAI](https://jobs.lever.co/field-ai/65561b5c-2348-4b88-9e73-ff9c6265dbf4)
   (Irvine, on-site): CV y correo listos en
-  [cv-fieldai-ai-solution-engineer.md](../conocimiento/identidad/cv-fieldai-ai-solution-engineer.md).
+  [cvs/fieldai-ai-solution-engineer.md](career/cvs/fieldai-ai-solution-engineer.md),
+  con [PDF ya exportado](career/cvs/fieldai-ai-solution-engineer.pdf).
   Nicolas autorizó enviar el correo de elegibilidad y declarar
-  reubicación inmediata a Irvine. Falta: exportar el CV a PDF, pegar el
+  reubicación inmediata a Irvine. Falta: pegar el
   cover letter en Lever o LinkedIn, y registrar la respuesta de
   sponsorship.
 
@@ -209,7 +210,7 @@ razones de rechazo y empresas que confirmen patrocinio.
 
 - Entrar como usuario sin privilegios con `sudo`, y `PermitRootLogin no`.
 - Configurar `unattended-upgrades` para parches de seguridad.
-- Detalle en [vps-velo.md](../conocimiento/infraestructura/vps-velo.md#seguridad-del-servidor).
+- Detalle en [vps-velo.md](../knowledge/infrastructure/vps-velo.md#seguridad-del-servidor).
 
 ### 10. Dónde debe vivir `infra/`
 
@@ -229,7 +230,7 @@ repositorio propio de infraestructura.
 - Decidir qué dominio es la cara de qué: la presentación de Theker quedó bajo
   `velasquezlopez.com` por comodidad, aunque conceptualmente encaja bajo
   `unmecaniko.com`.
-- Detalle en [dominios-y-dns.md](../conocimiento/infraestructura/dominios-y-dns.md).
+- Detalle en [dominios-y-dns.md](../knowledge/infrastructure/dominios-y-dns.md).
 
 ### 12. Despliegue atómico de sitios estáticos
 
@@ -247,6 +248,6 @@ conviviendo. Subir a un directorio hermano y mover un enlace simbólico.
 
 - Indexa los archivos **por nombre de base**, así que los siete `index.md` de
   `projects/` se pisan entre sí en el diccionario: solo uno queda accesible.
-- Ahora que existen `conocimiento/`, `codigo/` y `planeacion/`, el servidor
+- Ahora que existen `knowledge/`, `code/` y `planning/`, el servidor
   también expone la capa interna. Revisar si es lo que se quiere y, si no,
   filtrar por carpeta.

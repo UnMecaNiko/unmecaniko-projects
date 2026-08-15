@@ -2,7 +2,7 @@
 
 Copiar este archivo como `accesos.local.md` en la misma carpeta y llenarlo en el
 equipo de trabajo. **`accesos.local.md` está ignorado por git** — verificar con
-`git check-ignore -v conocimiento/infraestructura/accesos.local.md` antes de
+`git check-ignore -v knowledge/infrastructure/accesos.local.md` antes de
 escribir nada sensible.
 
 No commitear este archivo con valores reales. No pegarlo en un chat, un issue ni
@@ -58,4 +58,4 @@ un mensaje. El inventario público de qué credencial existe y para qué está e
 - **Cuenta:** `UnMecaNiko`
 - **Llave SSH para git:** ⏳
 - **Personal access token** (para que la web lea el repositorio si se vuelve
-  privado — ver [pendientes.md](../../planeacion/pendientes.md)): ⏳
+  privado — ver [pendientes.md](../../planning/pendientes.md)): ⏳
