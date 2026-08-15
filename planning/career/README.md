@@ -16,6 +16,7 @@ inventa: se marca `⏳ PENDIENTE`.
 | [transition-plan.md](transition-plan.md) | Plan de 18 meses hacia robótica + IA: roles objetivo, brechas, portafolio, eventos. |
 | [target-companies.md](target-companies.md) | Análisis de empresas objetivo y plan de posicionamiento. |
 | [target-companies.yaml](target-companies.yaml) | Inventario procesable de 32 empresas: ajuste, barrera migratoria, portal. |
+| [us-visa.md](us-visa.md) | Visa B-1/B-2 de Estados Unidos: categoría, encuadre de la entrevista, calendario real (9–13 meses) y eventos de robótica alcanzables. |
 
 ## Postulaciones
 

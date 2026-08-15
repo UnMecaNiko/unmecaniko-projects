@@ -8,6 +8,22 @@ resuelve, se borra de allí y aparece aquí.
 
 ## 2026-08
 
+### 2026-08-14 — Investigación de la visa B-1/B-2 de Estados Unidos
+
+- **[carrera]** Creado [us-visa.md](career/us-visa.md): categoría que aplica
+  (B-1/B-2, única ruta realista hoy), por qué no hace falta un viaje comprado
+  pero sí un propósito declarado, y el encuadre de la entrevista frente a la
+  sección 214(b).
+  - **Por qué así:** el hallazgo que cambia el plan no es jurídico sino de
+    calendario — la espera de cita en Bogotá es de **9 a 13 meses** y una
+    conferencia anual **no** califica para cita expedita. Eso descarta Actuate
+    26, Humanoids 2026 y HRI 2027, y convierte AUTONOMOUS 2027 en el primer
+    evento alcanzable. La conclusión operativa es iniciar el trámite **ya**,
+    sin atarlo a un evento con fecha.
+  - Confirmado que **buscar empleo no debe mencionarse** en el trámite: asistir
+    a entrevistas con visa B es legal, pero declarar intención de reubicarse
+    activa la presunción de inmigrante y produce negación.
+
 ### 2026-08-14 — Contacto directo con reclutamiento de FieldAI
 
 - **[carrera]** Redactada la **versión corta de LinkedIn** del mensaje a FieldAI
