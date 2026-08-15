@@ -238,6 +238,13 @@ opportunistic:
     first_action: "Enviar el correo de elegibilidad del CV FieldAI y declarar reubicación inmediata a Irvine."
     cv_variant: "applied-ai-solutions"
     decided_at: "2026-08-14"
+    contacts:
+      - name: "Brandon Nguyen"
+        role: "Talent Acquisition @ FieldAI"
+        channel: "LinkedIn (mensaje libre)"
+        sent_at: "2026-08-14"
+        sent_with: "Versión corta de 3 frases + PDF del CV adjunto"
+        response: "⏳ PENDIENTE — registrar aquí la respuesta sobre sponsorship"
 
   - id: "robot-com-sales-representative"
     company: "Robot.com"

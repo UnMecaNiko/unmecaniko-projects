@@ -8,6 +8,24 @@ resuelve, se borra de allí y aparece aquí.
 
 ## 2026-08
 
+### 2026-08-14 — Contacto directo con reclutamiento de FieldAI
+
+- **[carrera]** Redactada la **versión corta de LinkedIn** del mensaje a FieldAI
+  —tres frases: quién es, qué quiere y la única cosa que reclutamiento puede
+  resolver rápido— y guardada en
+  [fieldai-ai-solution-engineer.md](career/cvs/fieldai-ai-solution-engineer.md)
+  junto al cover letter largo de Lever, que se mantiene sin cambios.
+  - **Por qué así:** la pregunta de sponsorship va **al final** del mensaje. Si
+    va primero es lo único que el reclutador recuerda; al final llega como un
+    trámite práctico y no como un bloqueador de entrada. Se omite el enlace a
+    theker.velasquezlopez.com porque en tres frases compite con la pregunta, y
+    el destinatario es reclutamiento, no quien evalúa la arquitectura.
+- **[carrera]** Registrado en
+  [applications.yaml](career/applications.yaml) el contacto con **Brandon
+  Nguyen (Talent Acquisition @ FieldAI)** por mensaje libre de LinkedIn el
+  2026-08-14, con el PDF del CV adjunto. La respuesta sobre sponsorship queda
+  como `⏳ PENDIENTE`.
+
 ### 2026-08-14 — El CV de FieldAI declara la motivación de robótica y el repositorio de contexto
 
 - **[identidad]** Registrado en

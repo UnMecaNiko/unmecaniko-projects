@@ -170,15 +170,43 @@ in simulation and on hardware.
 
 ---
 
-## Correo / cover letter (listo para enviar)
+## Versión corta — mensaje de LinkedIn a Brandon Nguyen
 
-Usar el mismo texto en tres sitios, sin reescribirlo:
+> Enviado a **Brandon Nguyen, Talent Acquisition @ FieldAI**, por mensaje libre
+> de LinkedIn el 2026-08-14, con el PDF del CV adjunto.
+
+Tres frases: quién soy, qué quiero, y la única cosa que él puede resolver
+rápido. La pregunta de visa va **al final** a propósito: si abre el mensaje,
+es lo único que recuerda; al final llega como un trámite práctico y no como un
+bloqueador de entrada.
+
+Se omite el enlace a theker.velasquezlopez.com: en tres frases compite con la
+pregunta, y Brandon es reclutamiento, no quien evalúa la arquitectura.
+
+**Asunto:** AI Solution Engineer (Fixed-Term), Irvine — relocation ready, one visa question
+
+```
+Hi Brandon — I'm a Solutions Engineer and Mechatronics Engineer in Bogotá who
+ships production AI and agentic systems with customers in Python, with a
+mechatronics and ROS robotics background.
+
+I'm applying for the AI Solution Engineer (Fixed-Term) role in Irvine, and I
+can relocate on FieldAI's timeline. Resume attached.
+
+The one thing you could settle in a minute: can that requisition sponsor a
+candidate who needs U.S. work authorization — and if not, is there an Irvine
+path that can?
+```
+
+---
+
+## Correo / cover letter largo (Lever)
+
+Usar el mismo texto en dos sitios, sin reescribirlo:
 
 1. **Lever** — campo de cover letter al aplicar en
    [la vacante oficial](https://jobs.lever.co/field-ai/65561b5c-2348-4b88-9e73-ff9c6265dbf4).
-2. **LinkedIn** — mensaje a reclutamiento o Easy Apply, si el anuncio lo
-   permite.
-3. **Correo** — si aparece un contacto de recruiting; si no, Lever basta.
+2. **Correo** — si aparece un contacto de recruiting; si no, Lever basta.
 
 Adjuntar el PDF ya generado: [fieldai-ai-solution-engineer.pdf](fieldai-ai-solution-engineer.pdf)
 (solo la sección de arriba, sin estas notas de envío).
