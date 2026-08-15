@@ -73,8 +73,15 @@ con el nivel que demuestra la evidencia pública disponible al 2026-08-01.
 - Probó el controlador en simulación y hardware.
 - La evidencia principal es de 2023 y no demuestra aún operación de flotas,
   navegación autónoma moderna o despliegues industriales sostenidos.
+- **ROS 2 en aprendizaje activo** (confirmado por Nicolas el 2026-08-14). El
+  ROS con el que ya trabajó es ROS 1, en el proyecto de TurtleBot. Decir
+  "aprendiendo ROS 2" es honesto; decir "experiencia en ROS 2" todavía no.
 - **Evidencia:** [control de TurtleBot](../../projects/control-turtlebot/index.md)
   y [repositorio](https://github.com/UnMecaNiko/turtleBot3-RoboticaRos).
+
+> ⏳ PENDIENTE: al terminar el aprendizaje de ROS 2, registrar aquí qué se cubrió
+> (nodos, launch, TF2, Nav2…) y con qué artefacto público se demuestra. Mientras
+> no haya artefacto, en hojas de vida se declara como aprendizaje en curso.
 
 ### Liderazgo operativo y emprendimiento — intermedio
 
@@ -115,7 +122,8 @@ con el nivel que demuestra la evidencia pública disponible al 2026-08-01.
 ## Brechas prioritarias
 
 1. **ROS 2 actual:** nodos, lifecycle, launch, rosbag, TF2, Nav2, MoveIt 2,
-   RViz, pruebas y diagnóstico.
+   RViz, pruebas y diagnóstico. **En aprendizaje activo desde 2026-08**; la
+   brecha sigue abierta hasta que exista un artefacto público que lo demuestre.
 2. **C++ moderno:** C++17/20, CMake, concurrencia, memoria, pruebas y calidad de
    software. Los repositorios actuales prueban fundamentos, no cuatro años de
    experiencia profesional.

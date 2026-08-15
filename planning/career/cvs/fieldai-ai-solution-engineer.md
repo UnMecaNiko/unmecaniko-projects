@@ -37,6 +37,25 @@ agentic workflows, tool use, and turning one-off client needs into
 repeatable capabilities. Looking to do that work where the robots are, on
 FieldAI's field-ready stack.
 
+### Why robotics, and why now
+
+This is a deliberate move into robotics, not an opportunistic application.
+I trained as a mechatronics engineer because robots are what I care about,
+and the last two years took me deep into applied AI and cloud. The thing I
+want to build for the rest of my career is the intersection: **physical
+robots made useful by AI**, deployed at a real customer site.
+
+- **The robotics foundation is real:** mechatronics degree, ROS work on
+  differential-drive trajectory control (Lyapunov, odometry, Gazebo,
+  MATLAB/Simulink) validated in both simulation and hardware, and a CNC I
+  designed the electronics, firmware, and safety for.
+- **Currently learning ROS 2**, building on the ROS 1 experience above. I am
+  explicit about where I am on that curve rather than overstating it.
+- **The AI half is my day job**, not a side interest: production LLM and
+  agentic systems shipped with customers.
+
+FieldAI is where those two halves stop being separate résumé sections.
+
 ### Relevant experience
 
 **Solutions Engineer — Truora** · Bogotá, Colombia · Oct 2025–present
@@ -75,6 +94,23 @@ Jul–Sep 2025
   (Python, n8n, APIs, cloud).
 
 ### Selected work that maps to this role
+
+**This résumé is itself the output of an agentic system I built.** It was
+generated from a personal *context repository* — a structured knowledge base
+about my career built with harness engineering and deliberate context
+management, so that agents working against it can:
+
+- ground themselves in who I am and what I have actually done, with every
+  claim traceable to a source document;
+- score my match against a specific role or job description from several
+  points of view, and name the gaps instead of hiding them;
+- draft a résumé tailored to that role, with unverified data explicitly
+  flagged rather than invented.
+
+That last constraint is the point: the harness is designed so the agent
+*cannot* quietly fabricate a credential. It is the same discipline this role
+needs — turning a customer's messy context into a system that produces
+reliable, repeatable output.
 
 **Agentic pre-sales operating system** — designed an agent-assisted system
 for discovery, research, and pilot operations. The public, anonymized

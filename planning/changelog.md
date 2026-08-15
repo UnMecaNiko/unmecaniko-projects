@@ -8,6 +8,33 @@ resuelve, se borra de allí y aparece aquí.
 
 ## 2026-08
 
+### 2026-08-14 — El CV de FieldAI declara la motivación de robótica y el repositorio de contexto
+
+- **[identidad]** Registrado en
+  [capacidades.md](../knowledge/identity/capacidades.md) que Nicolas está
+  **aprendiendo ROS 2 activamente** (confirmado el 2026-08-14), y aclarado que
+  el ROS con el que ya trabajó en el TurtleBot es **ROS 1**.
+  - **Por qué así:** la brecha #1 del perfil era justamente ROS 2. Ahora dice
+    "en aprendizaje activo" en vez de solo "falta", pero **sigue marcada como
+    brecha abierta** hasta que exista un artefacto público que la demuestre.
+    Escribir "experiencia en ROS 2" hoy sería un dato inventado.
+- **[carrera]** Añadida al CV de FieldAI la sección **«Why robotics, and why
+  now»**: el cambio de industria es deliberado, la base mecatrónica y de ROS 1
+  es real, ROS 2 está en curso y declarado como tal, y la mitad de IA es el
+  trabajo diario.
+- **[carrera]** Añadido al CV que **el propio CV es la salida de un sistema
+  agéntico**: un repositorio de contexto construido con harness engineering y
+  gestión de contexto, capaz de conocer la trayectoria, puntuar el ajuste con
+  un rol desde varios puntos de vista y redactar hojas de vida personalizadas
+  sin inventar credenciales.
+  - **Por qué así:** para un rol de solutions / forward-deployed engineering es
+    la evidencia más directa que existe — el documento que están leyendo *es* el
+    artefacto. Se describe el sistema **sin enlazar el repositorio**: es público
+    y expone el tracker completo de postulaciones, con las otras empresas, los
+    bloqueadores y las notas de "no enviar". Decidir si se enlaza es una
+    conversación aparte.
+- **[carrera]** Regenerado el PDF (103 KB, sigue en 2 páginas).
+
 ### 2026-08-14 — Reorganización: nombres en inglés y carpeta de crecimiento profesional
 
 - **[repo]** Renombradas las tres carpetas de la capa interna a inglés:
