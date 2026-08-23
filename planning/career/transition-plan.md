@@ -245,7 +245,8 @@ robótica, IA, nube y soluciones.
 
 #### Alcance mínimo
 
-- ROS 2 Jazzy o distribución vigente compatible.
+- ROS 2 Jazzy o distribución vigente compatible. Consulta:
+  [ros2-jazzy-tutorials.md](../../knowledge/robotics/ros2-jazzy-tutorials.md).
 - Simulación reproducible en Gazebo.
 - Nav2, TF2, odometría, sensores y gestión de fallos.
 - Nodos Python con pruebas; un componente acotado en C++17.

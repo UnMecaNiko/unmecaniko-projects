@@ -82,6 +82,8 @@ con el nivel que demuestra la evidencia pública disponible al 2026-08-01.
 > ⏳ PENDIENTE: al terminar el aprendizaje de ROS 2, registrar aquí qué se cubrió
 > (nodos, launch, TF2, Nav2…) y con qué artefacto público se demuestra. Mientras
 > no haya artefacto, en hojas de vida se declara como aprendizaje en curso.
+> El índice de consulta es
+> [ros2-jazzy-tutorials.md](../robotics/ros2-jazzy-tutorials.md).
 
 ### Liderazgo operativo y emprendimiento — intermedio
 

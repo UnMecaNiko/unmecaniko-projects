@@ -36,7 +36,7 @@ Este repositorio tiene **dos capas con reglas distintas**. Confundirlas rompe la
 
 | Carpeta | Qué es |
 |---|---|
-| `knowledge/` | Fuente de la verdad interna sobre quién es Nicolas: identidad profesional, negocios, infraestructura, web. Datos de referencia, no seguimiento operativo. |
+| `knowledge/` | Fuente de la verdad interna sobre quién es Nicolas: identidad profesional, negocios, infraestructura, web, robótica (mapa ROS 2). Datos de referencia, no seguimiento operativo. |
 | `code/` | Código que vive en este repositorio (sitios y aplicaciones desplegables). |
 | `planning/` | Bitácora del repositorio ([changelog.md](planning/changelog.md), [pendientes.md](planning/pendientes.md)) y, en [career/](planning/career/), el seguimiento activo de postulaciones, CVs y estrategia de aplicación. |
 
@@ -126,6 +126,7 @@ knowledge/                       ── CAPA INTERNA (contenido en español, nom
 ├── identity/                    perfil profesional, trayectoria, capacidades
 ├── business/                    magia-roja-cnc.md (CNC + VELO inc)
 ├── infrastructure/              vps-velo.md, dominios-y-dns.md, proxy-caddy.md, accesos.md
+├── robotics/                    mapa de tutoriales ROS 2 Jazzy (consulta, no progreso)
 └── web/                         unmecaniko-com.md (cómo funciona la web pública)
 code/                            código desplegable que vive aquí
 └── theker-sistema-operativo-ia/ presentación Next.js → theker.velasquezlopez.com
@@ -162,6 +163,7 @@ Todo lo que no vive aquí se consulta en GitHub, nunca en carpetas locales.
 | Saber qué dominios hay y dónde apuntan | [knowledge/infrastructure/dominios-y-dns.md](knowledge/infrastructure/dominios-y-dns.md) |
 | Consultar el detalle técnico de la CNC | Repositorio [magiaRojaV3](https://github.com/UnMecaNiko/magiaRojaV3), empezando por su `AGENTS.md` |
 | Actualizar la presentación de Theker | [code/theker-sistema-operativo-ia/README.md](code/theker-sistema-operativo-ia/README.md) |
+| Consultar un tema de ROS 2 Jazzy | [knowledge/robotics/ros2-jazzy-tutorials.md](knowledge/robotics/ros2-jazzy-tutorials.md) — abrir el enlace oficial, no reescribir el tutorial |
 | Ver el estado de postulaciones activas o generar un CV nuevo | [planning/career/](planning/career/) |
 | Saber qué falta por hacer | [planning/pendientes.md](planning/pendientes.md) |
 | Saber qué cambió y por qué | [planning/changelog.md](planning/changelog.md) |

@@ -93,7 +93,8 @@ certificaciones centrales para el posicionamiento en robótica + IA.
 
 En orden de impacto:
 
-1. ROS 2 moderno y Nav2/MoveIt 2 con proyecto público.
+1. ROS 2 moderno y Nav2/MoveIt 2 con proyecto público. Índice de consulta:
+   [ros2-jazzy-tutorials.md](../robotics/ros2-jazzy-tutorials.md).
 2. C++17/20 aplicado a robótica.
 3. NVIDIA Isaac Sim/Isaac Lab y fundamentos de *sim-to-real*.
 4. Visión por computador con OpenCV y PyTorch.

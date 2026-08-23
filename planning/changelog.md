@@ -8,6 +8,18 @@ resuelve, se borra de allí y aparece aquí.
 
 ## 2026-08
 
+### 2026-08-22 — Mapa de consulta de los tutoriales ROS 2 Jazzy
+
+- **[conocimiento]** Creado
+  [ros2-jazzy-tutorials.md](../knowledge/robotics/ros2-jazzy-tutorials.md):
+  índice de [Tutorials.html](https://docs.ros.org/en/jazzy/Tutorials.html)
+  con tabla “cuando necesite X → este enlace”, el árbol oficial y las
+  páginas hermanas (How-to, Concepts, migración desde ROS 1).
+  - **Por qué así:** Nicolas va a aprender ROS 2 sobre Jazzy en WSL y
+    pidió esa página como fuente de consulta. El archivo no copia los
+    tutoriales: apunta a docs.ros.org para no divergir. Nav2 y MoveIt 2
+    quedan marcados como fuera de esa página.
+
 ### 2026-08-14 — Investigación de la visa B-1/B-2 de Estados Unidos
 
 - **[carrera]** Creado [us-visa.md](career/us-visa.md): categoría que aplica
