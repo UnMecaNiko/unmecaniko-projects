@@ -8,6 +8,15 @@ resuelve, se borra de allí y aparece aquí.
 
 ## 2026-08
 
+### 2026-08-23 — Atajos de GNU Readline (modo Emacs)
+
+- **[conocimiento]** Creado
+  [readline.md](../knowledge/tools/readline.md): cheatsheet de edición de
+  línea (`Ctrl-a/e/k/w/n/p`, `Alt-d/f/b`).
+  - **Por qué así:** Nicolas pidió anotarlos. Son los bindings de Readline
+    que aplican en bash, SSH y WSL; no los de PowerShell. `knowledge/tools/`
+    queda como carpeta para cheatsheets de herramientas de trabajo.
+
 ### 2026-08-22 — Mapa de consulta de los tutoriales ROS 2 Jazzy
 
 - **[conocimiento]** Creado
