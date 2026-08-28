@@ -31,13 +31,15 @@ Los estados posibles están definidos en `metadata.status_values` de
 
 ## Hojas de vida
 
-Cada CV se escribe para **una vacante concreta**, en inglés, y vive en
-[cvs/](cvs/) con el mismo nombre base en Markdown y PDF. El Markdown es la
-fuente editable e incluye las notas internas de envío; el PDF es lo que se
-adjunta a la postulación y contiene **solo** la hoja de vida, sin esas notas.
+La hoja de vida predeterminada presenta el perfil general. Las demás se escriben
+para **una vacante concreta**. Todas están en inglés y viven en [cvs/](cvs/)
+con el mismo nombre base en Markdown y PDF. El Markdown es la fuente editable e
+incluye las notas internas de uso o envío; el PDF contiene **solo** la hoja de
+vida.
 
 | Vacante | Markdown | PDF | Estado |
 |---|---|---|---|
+| Perfil general — sin vacante objetivo | [general-resume.md](cvs/general-resume.md) | [PDF](cvs/general-resume.pdf) | CV predeterminado listo; usar como base y adaptar antes de una postulación concreta. |
 | [AI Solution Engineer (Fixed-Term) — FieldAI](https://jobs.lever.co/field-ai/65561b5c-2348-4b88-9e73-ff9c6265dbf4) (Irvine, on-site) | [fieldai-ai-solution-engineer.md](cvs/fieldai-ai-solution-engineer.md) | [PDF](cvs/fieldai-ai-solution-engineer.pdf) | Correo de elegibilidad autorizado; falta enviar y registrar respuesta de sponsorship. |
 | [Sales Representative — Robot.com](https://robot.na.teamtailor.com/jobs/391940-sales-representative) (San Francisco, híbrido) | [robot-com-sales-representative.md](cvs/robot-com-sales-representative.md) | ⏳ PENDIENTE | 🔴 **No enviar.** Falta confirmar por escrito sponsorship o remoto desde Colombia. |
 

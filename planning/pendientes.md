@@ -173,8 +173,9 @@ bloqueadores están en
 [planning/career/applications.md](career/applications.md)
 y su tracker en
 [planning/career/applications.yaml](career/applications.yaml).
-Falta congelar el CV maestro, producir las tres variantes y enviar cada
-candidatura con confirmación final de Nicolas.
+Ya existe una hoja de vida general predeterminada en
+[cvs/general-resume.md](career/cvs/general-resume.md); falta producir las tres
+variantes objetivo y enviar cada candidatura con confirmación final de Nicolas.
 
 **Vacantes nuevas fuera de la ola.**
 

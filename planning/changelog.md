@@ -8,6 +8,20 @@ resuelve, se borra de allí y aparece aquí.
 
 ## 2026-08
 
+### 2026-08-28 — Hoja de vida general predeterminada
+
+- **[carrera]** Creados
+  [general-resume.md](career/cvs/general-resume.md) y su
+  [PDF](career/cvs/general-resume.pdf) como versión estándar del perfil, sin
+  apuntar a una vacante o cargo específico.
+  - **Por qué así:** el resumen equilibra ingeniería de soluciones, IA aplicada,
+    nube, automatización y mecatrónica; conserva la trayectoria cronológica,
+    proyectos, capacidades, formación y logros verificables sin forzar una
+    narrativa de ventas, robótica o una empresa concreta.
+  - El documento está en inglés, como los demás CV de
+    [planning/career/](career/), y queda como base para adaptar antes de cada
+    postulación.
+
 ### 2026-08-23 — Atajos de GNU Readline (modo Emacs)
 
 - **[conocimiento]** Creado
