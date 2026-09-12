@@ -1,0 +1,24 @@
+# This repository is content only: Markdown + YAML front-matter.
+# Nothing here should ever be generated, built, or secret.
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+
+# Never, under any circumstance
+.env
+.env.*
+*.pem
+*.key
+id_rsa*
+id_ed25519*
+*.local.md
+
+# Heavy media belongs in external storage (Supabase, YouTube), not here
+*.mp4
+*.mov
+*.psd
+*.ai
