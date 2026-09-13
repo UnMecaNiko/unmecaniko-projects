@@ -27,6 +27,7 @@ Here's a quick tour of what I've been building 🦾:
 | **DomiChat** | WhatsApp agent that connects delivery riders with rural communities. | AI, Cloud, Business | Active | [domichat](./projects/domichat/index.md) |
 | **This Website** | AI-powered project documentation that feeds unmecaniko.com. | AI, Programming, Cloud | Active | [webpage-projects](./projects/webpage-projects/index.md) |
 | **Trajectory Control for Differential Robots** | ROS trajectory control with Gazebo simulation and a Lyapunov controller. | Robotics, Programming | Archived | [control-turtlebot](./projects/control-turtlebot/index.md) |
+| **CNC Magia Roja v3** | Desktop CNC with motorized Z, 500 × 500 mm work area, and a 30W optical laser. | Electronics & Hardware, Robotics | Active | [cnc-magiaRoja-v3](./projects/cnc-magiaRoja-v3/index.md) |
 | **CNC Magia Roja v2** | Upgraded control and mechanics for the CNC engraver and laser. | Electronics & Hardware, Robotics | Ended | [cnc-magiaRoja-v2](./projects/cnc-magiaRoja-v2/index.md) |
 | **CNC Magia Roja v1** | DIY CNC engraver and 80W laser cutter built with my dad. | Electronics & Hardware, Robotics | Ended | [cnc-magiaRoja-v1](./projects/cnc-magiaRoja-v1/index.md) |
 | **Lapiz Labs** | Robotics and programming education for kids. | Business, Education, Robotics | Ended | [lapizlabs](./projects/lapizlabs/index.md) |
