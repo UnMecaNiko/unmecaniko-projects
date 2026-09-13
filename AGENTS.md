@@ -33,3 +33,10 @@ Copy [context/project-template.md](context/project-template.md) to
 `projects/<slug>/index.md`, fill in the complete front-matter using the fixed
 category list, write the body in English, and add a row to the table in
 [README.md](README.md).
+
+**This repository is the only place a new (or updated) project entry is
+edited.** Do not open or commit to
+[professionalWebsite](https://github.com/UnMecaNiko/professionalWebsite) to
+reorder the listing, change how a cover crops, or “make it look right”. The
+site reads these files live; a content change needs no deploy. Website code is
+a separate job and needs an explicit request.
