@@ -17,22 +17,18 @@ date_end: ""
 tech: ["GRBL","Arduino","CNC Shield","DRV8825","NEMA 17","Laser Tree K30","LightBurn","LaserGRBL"]
 tags: ["CNC","Laser","Fabrication","Prototyping","Workshop","Desktop CNC"]
 
-cover: "https://ykvgpcusdnzyzsqjmksr.supabase.co/storage/v1/object/public/unmecaniko-projects-media/cnc-magiaRoja-v3/cover.jpg"
+cover: "https://ykvgpcusdnzyzsqjmksr.supabase.co/storage/v1/object/public/unmecaniko-projects-media/cnc-magiaRoja-v3/cover.png"
 gallery:
-  - url: "https://ykvgpcusdnzyzsqjmksr.supabase.co/storage/v1/object/public/unmecaniko-projects-media/cnc-magiaRoja-v3/cover.jpg"
+  - url: "https://ykvgpcusdnzyzsqjmksr.supabase.co/storage/v1/object/public/unmecaniko-projects-media/cnc-magiaRoja-v3/machine-open.png"
     caption: "Product render of Magia Roja v3 with the red acrylic lid open, based on the real machine."
   - url: "https://ykvgpcusdnzyzsqjmksr.supabase.co/storage/v1/object/public/unmecaniko-projects-media/cnc-magiaRoja-v3/workshop-front.jpg"
     caption: "The real machine in the workshop — black cabinet, honeycomb bed, and Laser Tree K30."
   - url: "https://ykvgpcusdnzyzsqjmksr.supabase.co/storage/v1/object/public/unmecaniko-projects-media/cnc-magiaRoja-v3/workshop-angle.jpg"
     caption: "Three-quarter view of the finished mechanics, with emergency stop and exhaust hose."
-  - url: "https://ykvgpcusdnzyzsqjmksr.supabase.co/storage/v1/object/public/unmecaniko-projects-media/cnc-magiaRoja-v3/hero-closed.jpg"
-    caption: "Product render with the red acrylic enclosure closed."
   - url: "https://ykvgpcusdnzyzsqjmksr.supabase.co/storage/v1/object/public/unmecaniko-projects-media/cnc-magiaRoja-v3/k30-engraving.jpg"
     caption: "Product render: Laser Tree K30 engraving wood on the honeycomb bed."
   - url: "https://ykvgpcusdnzyzsqjmksr.supabase.co/storage/v1/object/public/unmecaniko-projects-media/cnc-magiaRoja-v3/materials.jpg"
     caption: "Product render of intended materials: wood, paper, leather, dark acrylic, and surface marking."
-  - url: "https://ykvgpcusdnzyzsqjmksr.supabase.co/storage/v1/object/public/unmecaniko-projects-media/cnc-magiaRoja-v3/layered-signs.jpg"
-    caption: "Product render of layered wood and acrylic signage — intended applications for v3."
   - url: "https://ykvgpcusdnzyzsqjmksr.supabase.co/storage/v1/object/public/unmecaniko-projects-media/cnc-magiaRoja-v3/mural-art.jpg"
     caption: "Product render of layered wood mural pieces cut on the machine."
 videos: []
@@ -74,7 +70,7 @@ CNC Magia Roja v3 is the current machine in a three-generation desktop CNC line 
 The brand that sells the machine is **VELO inc**. The commercial landing is live at [velasquezlopez.com](https://velasquezlopez.com). Earlier machines are documented here: [v1](https://www.unmecaniko.com/projects/cnc-magiaRoja-v1) and [v2](https://www.unmecaniko.com/projects/cnc-magiaRoja-v2).
 
 <p align="center">
-  <img src="https://ykvgpcusdnzyzsqjmksr.supabase.co/storage/v1/object/public/unmecaniko-projects-media/cnc-magiaRoja-v3/cover.jpg"
+  <img src="https://ykvgpcusdnzyzsqjmksr.supabase.co/storage/v1/object/public/unmecaniko-projects-media/cnc-magiaRoja-v3/machine-open.png"
        alt="Product render of CNC Magia Roja v3 with the lid open"
        title="CNC Magia Roja v3"
        width="80%">
